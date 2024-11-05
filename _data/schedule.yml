@@ -2,14 +2,14 @@
   date: "2024-11-06"
   dateReadable: "6th Nov 2024"
   tracks: 
-    - {title: "Joan Hendrick Lecture Theatre - Building 220 Level 1", color: "#2E8B57"}
-    - {title: "Lecture Theatre - Building 220 Level 1 Room 09", color: "#e91e63"}
-    - {title: "Computer Lab - Building 220 Level 1 Room 10", color: "#FF8C00"}
-    - {title: "Learning space - Building 220 Level 1 Room 11", color: "#48D1CC"}
-    - {title: "Computer Lab - Building 220 Level 1 Room 12", color: "#FF00FF"}
-    - {title: "Learning space - Building 220 Level 1 Room 13", color: "#48D1CC"}
-    - {title: "Learning space - Building 216 Level 1 Room 16", color: "#2E8B57"}
-    - {title: "Moot Court - Building 216 Level 1 Room 17", color: "#e91e63"}
+    - {title: "Joan Hendrick Lecture Theatre - Bg 220 Lv 1 Room 07", color: "#2E8B57"}
+    - {title: "Lecture Theatre - Bg 220 Lv 1 Room 09", color: "#e91e63"}
+    - {title: "Computer Lab - Bg 220 Lv 1 Room 10", color: "#FF8C00"}
+    - {title: "Learning space - Bg 220 Lv 1 Room 11", color: "#48D1CC"}
+    - {title: "Computer Lab - Bg 220 Lv 1 Room 12", color: "#FF00FF"}
+    - {title: "Learning space - Bg 220 Lv 1 Room 13", color: "#48D1CC"}
+    - {title: "Learning space - Bg 216 Lv 1 Room 16", color: "#2E8B57"}
+    - {title: "Moot Court - Bg 216 Lv 1 Room 17", color: "#e91e63"}
   timeslots:
     - {startTime: "08:00", endTime: "09:00", sessionIds: [001]}
     - {
@@ -57,14 +57,13 @@
   date: "2024-11-07"
   dateReadable: "7th Nov 2024"
   tracks: 
-    - {title: "Joan Hendrick Lecture Theatre - Building 220 Level 1", color: "#2E8B57"}
-    - {title: "Lecture Theatre - Building 220 Level 1 Room 09", color: "#e91e63"}
-    - {title: "Computer Lab - Building 220 Level 1 Room 10", color: "#FF8C00"}
-    - {title: "Learning space - Building 220 Level 1 Room 11", color: "#48D1CC"}
-    - {title: "Computer Lab - Building 220 Level 1 Room 12", color: "#FF00FF"}
-    - {title: "Learning space - Building 220 Level 1 Room 13", color: "#48D1CC"}
-    - {title: "Learning space - Building 216 Level 1 Room 16", color: "#2E8B57"}
-    - {title: "Moot Court - Building 216 Level 1 Room 17", color: "#e91e63"}
+    - {title: "Lecture Theatre - Bg 220 Lv 1 Room 09", color: "#e91e63"}
+    - {title: "Computer Lab - Bg 220 Lv 1 Room 10", color: "#FF8C00"}
+    - {title: "Learning space - Bg 220 Lv 1 Room 11", color: "#48D1CC"}
+    - {title: "Computer Lab - Bg 220 Lv 1 Room 12", color: "#FF00FF"}
+    - {title: "Learning space - Bg 220 Lv 1 Room 13", color: "#48D1CC"}
+    - {title: "Learning space - Bg 216 Lv 1 Room 16", color: "#2E8B57"}
+    - {title: "Moot Court - Bg 216 Lv 1 Room 17", color: "#e91e63"}
   timeslots:
     - {
       startTime: "08:00",
@@ -74,7 +73,7 @@
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: [000,2019,2023,2024,2022,20211,2025,2015]
+      sessionIds: [2019,2023,2024,2022,20211,2025,2015]
     }
     - {
       startTime: "10:30",
@@ -84,7 +83,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [000,2010,2023,2024,2011,20212,2003,2015]
+      sessionIds: [2010,2023,2024,2011,20212,2003,2015]
     }
     - {
       startTime: "12:30",
@@ -114,7 +113,7 @@
     - {
        startTime: "15:30",
        endTime: "17:30",
-       sessionIds: [000,000,2023,2026,2007,2005,2004,2015]
+       sessionIds: [000,2023,2026,2007,2005,2004,2015]
     }
     - {
        startTime: "17:30",
