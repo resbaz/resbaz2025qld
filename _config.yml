@@ -14,8 +14,8 @@ future: true # Enable future posts (date > current date)
 title: "Research Bazaar Queensland"
 email: "mailto:resbaz@qcif.edu.au"
 description: "Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
-baseurl: "/resbaz2024qld"
-url: "https://resbaz.github.io/resbaz2024qld/"
+baseurl: "/resbaz2025qld"
+url: "https://resbaz.github.io/resbaz2025qld/"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "matty-plumski.github.io"
@@ -31,7 +31,7 @@ organizerLogo: "/img/seo/QCIF_Logo_web-copy.jpg"
 organizerLink: "https://www.qcif.edu.au/"
 
 # Head
-metaKeywords: "event, resbaz, research, bazaar, brisbane, queensland, digital, skills, upskilling, hdr, ecr, eresearch, resbazqld, resbazbris"
+metaKeywords: "event, resbaz, research, bazaar, brisbane, meanjin, queensland, digital, skills, upskilling, hdr, ecr, eresearch, resbazqld, resbazbris"
 twitterAccount: "@ResBazQld"
 instagramAccount: "@ResBazQld"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -48,7 +48,7 @@ navigationLinks:
  #- {permalink: "/news/", text: "News"}
  #- {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
  #- {link: "https://forms.gle/MQAHpunT1aCn7ueRA", text: "Keep me informed"}
- - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Getting here"}
@@ -62,23 +62,23 @@ navigationLinks:
 # - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
 
 # Hero Block
-heroImage: "ACU-Nudgee-drone.jpg"
+heroImage: "USC_Petrie_1.png"
 heroTitle: "Research Bazaar Queensland"
-eventDate: "6-7th Nov 2024 - ACU Brisbane"
+eventDate: "1st-3rd Jul 2025 - UniSC Moreton Bay"
 
 
 
 # About Block
 aboutTitle: "About ResBaz Queensland"
 aboutSubtitle: "A festival of digital research"
-aboutText: "<p>ResBaz is more than a conference - it's a two-day festival of digital research training, where researchers from all disciplines come together to learn new skills in an interactive, collaborative and above all fun setting. Featuring workshops, talks, discussion sessions, networking and plenty of social activities, ResBazQld provides participatory training spanning nearly fifty different topics of cutting-edge digital research tools and techniques. </p>
+aboutText: "<p>ResBaz is more than a conference - it's a three-day festival of digital research training, where researchers from all disciplines come together to learn new skills in an interactive, collaborative and above all fun setting. Featuring workshops, talks, discussion sessions, networking and plenty of social activities, ResBazQld provides participatory training spanning nearly fifty different topics of cutting-edge digital research tools and techniques. </p>
 
-<p>In 2024, ResBazQld is now in its eighth year!
+<p>In 2025, ResBazQld is now in its ninth year!
 In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
 
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>
 
-<p>ACU, Brisbane campus is set in beautiful surrounds and is just 12 km north of the city centre. There is free parking and <a href='https://www.acu.edu.au/locations/brisbane'>public transport opportunities</a>.</p>"
+<p>UniSC, <a href='https://www.usc.edu.au/study/life-at-unisc/study-locations/unisc-moreton-bay/about-unisc-moreton-bay-campus'>Moreton Bay campus</a> is UniSC's newest campus and is just 25 km north of the city centre. There are various <a href='https://www.usc.edu.au/about/locations/transport-and-parking/public-transport#unisc-moreton-bay'>public transport opportunities</a>. <a href='https://www.usc.edu.au/about/locations/transport-and-parking/parking#unisc-moreton-bay'>On-campus parking</a> is only available for UniSC card holders.</p>"
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
@@ -99,19 +99,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Australian Catholic University - Brisbane Campus"
-eventLocationLink: "https://maps.app.goo.gl/Fiqo9BC67jhfytJe6"
-eventStreetAddress: "Brisbane Campus (McAuley) 1100 Nudgee Road"
-eventAddressLocality: "Banyo"
-eventAddressLocalityRegion: " Brisbane"
-eventPostalCode: "4014"
+eventLocationName: "University of the Sunshine Coast - Brisbane Campus"
+eventLocationLink: "https://www.openstreetmap.org/#map=18/-27.271069/152.981604"
+eventStreetAddress: "1 Moreton Parade"
+eventAddressLocality: "Petrie"
+eventAddressLocalityRegion: " QLD"
+eventPostalCode: "4502"
 eventAddressCountry: "Australia"
 eventStartTime: ""
 eventDoorTime: ""
 eventEndTime: ""
-eventPlaceCoordinates: "-27.377184810381276, 153.08899634603867"
-mapCenterCoordinates: "-27.377184810381276, 153.08899634603867"
-mapMobileCenterCoordinates: "-27.377184810381276, 153.08899634603867"
+eventPlaceCoordinates: "-27.271069, 152.981604"
+mapCenterCoordinates: "-27.271069, 152.981604"
+mapMobileCenterCoordinates: "-27.271069, 152.981604"
 #
 # Venue Block
 # venueBlockTitle: "Past Events"
@@ -200,13 +200,13 @@ footerBlocks:
 #   - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
  -
   title: "Gold Sponsors"
-  links:
-   - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
-   - {link: "https://taylorandfrancis.com/", text: "Taylor & Francis", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
+#  links:
+#   - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+#   - {link: "https://taylorandfrancis.com/", text: "Taylor & Francis", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
  -    
   title: "Silver Sponsor"
-  links:
-   - {link: "https://www.springernature.com/gp", text: "Springer Nature", imageUrl: "../img/organizers/logo-springernature.svgf"}
+#  links:
+#   - {link: "https://www.springernature.com/gp", text: "Springer Nature", imageUrl: "../img/organizers/logo-springernature.svgf"}
  -  
   title: "Collaborating Institutes"
   links:
