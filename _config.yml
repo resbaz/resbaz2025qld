@@ -49,7 +49,7 @@ navigationLinks:
  #- {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
  #- {link: "https://forms.gle/MQAHpunT1aCn7ueRA", text: "Keep me informed"}
  # - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Getting here"}
  - {permalink: "/dietaries/", text: "Facilities"}
@@ -191,8 +191,8 @@ socialLinks:
 footerBlocks:
  -
   #title: "Logo Customisation"
-  links:
-   - {link: "https://www.linkedin.com/in/alexandra-gloria-9b703814a/", text: "Logo customisations by Alex Gloria"}
+#  links:
+#   - {link: "https://www.linkedin.com/in/alexandra-gloria-9b703814a/", text: "Logo customisations by Alex Gloria"}
  -
 #  title: "National ResBaz Sponsors"
 #  links:
