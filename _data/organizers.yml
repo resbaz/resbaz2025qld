@@ -2,16 +2,16 @@
   group: "Gold Sponsors"
   elements: 
     - {description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
-    - {link: "https://taylorandfrancis.com/", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
+    # - {link: "https://taylorandfrancis.com/", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
 -
   group: "Silver Sponsors"
   elements: 
-    - {description: "Springer Nature", link: "https://www.springernature.com/gp", imageUrl: "../img/organizers/logo-springernature.svg"}
+    # - {description: "Springer Nature", link: "https://www.springernature.com/gp", imageUrl: "../img/organizers/logo-springernature.svg"}
 -
   group: "Main organisers"
   elements: 
    - {description: "QCIF",  link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}
-   - {description: "ACU",  link: "https://www.acu.edu.au/", imageUrl: "../img/organizers/acu_logo_purple.svg"} 
+   - {description: "UniSC", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
 -
   group: "Co-organisers"
   elements: 
@@ -19,5 +19,6 @@
    - {description: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
    - {description: "Griffith University", link: "griffith.edu.au",  imageUrl: "../img/organizers/GU.gif"}
    - {description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
-   - {description: "UniSC", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+   - {description: "SCU", link: "https://www.scu.edu.au/", imageUrl: "../img/organizers/SCU.png"}
+   # - {description: "ACU",  link: "https://www.acu.edu.au/", imageUrl: "../img/organizers/acu_logo_purple.svg"} 
 -

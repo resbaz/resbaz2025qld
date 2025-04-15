@@ -200,8 +200,8 @@ footerBlocks:
 #   - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
  -
   title: "Gold Sponsors"
-#  links:
-#   - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+  links:
+   - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
 #   - {link: "https://taylorandfrancis.com/", text: "Taylor & Francis", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
  -    
   title: "Silver Sponsor"
