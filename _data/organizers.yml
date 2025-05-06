@@ -6,7 +6,7 @@
 -
   group: "Silver Sponsors"
   elements: 
-    # - {description: "Springer Nature", link: "https://www.springernature.com/gp", imageUrl: "../img/organizers/logo-springernature.svg"}
+    - {description: "Springer Nature", link: "https://www.springernature.com/gp", imageUrl: "../img/organizers/logo-springernature.svg"}
 -
   group: "Main organisers"
   elements: 
