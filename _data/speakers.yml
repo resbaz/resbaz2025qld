@@ -1,45 +1,45 @@
 -
   id: 101
-  name: John
-  surname: Mahoney
+  name: Ross
+  surname: Young
   pronouns:
-  company: ACU
+  company: UniSC
   title: 
-  bio: John is a psychologist by training, with an interest in leadership, coaching, and performance. In his academic role, John teaches into undergraduate and postgraduate courses in the School of Behavioural and Health Sciences. He also has a strong track record of leading learning and teaching projects with a focus on student engagement and learning. His passion, however, is to support academics in using highest-level evidence to inform their learning and teaching practices. Along with three colleagues, he established INSPIRE, which aligns closely with his passion. He continues to grow INSPIRE and scale it, as well as work on other learning and teaching projects aimed at providing high-quality student experiences.
-  thumbnailUrl: john_mahoney.jpg
+  bio: 
+  thumbnailUrl: ross_young.jpg
   rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social: https://acuresearchbank.acu.edu.au/researcher/80z65/john-william-mahoney
+  social: https://www.usc.edu.au/staff/professor-ross-young
 -
   id: 102
-  name: Jelena
-  surname: Nikolic
-  pronouns:
-  company: QLD Department of Tourism and Sport
-  title: Chief Digital Officer
-  bio: Jelena leads the Digital Services team at the Department of Tourism and Sport, which provides oversight of all ICT delivery across the department, including the strategic digital agenda, provision of advice, guidance and support of key technology and digital initiatives, digital governance frameworks, and information management and security to advance the department's digital priorities.
-  thumbnailUrl: jelena_nikolic.png
+  name: Paul
+  surname: Salmon
+  pronouns: 
+  company: UniSC
+  title: 
+  bio: "Paul is a professor of Human Factors and creator of the Centre for Human Factors and Sociotechnical Systems at the University of the Sunshine Coast. He has almost 25 years’ experience of applied Human Factors and systems science research in a diverse set of domains. His current research interests are focused on the application of systems science to manage global level risks. Paul has received several prestigious awards from the International, Australian, US, and UK Human Factors and Ergonomics societies, and for the past 5 years The Australian has identified him as Australia’s field leader in the area of quality and reliability."
+  thumbnailUrl: paul_salmon.jpg
   rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social: https://www.linkedin.com/in/jelena-nikolic-83162824b
+  social: https://www.usc.edu.au/staff/professor-paul-salmon
 -
   id: 103
-  name: Dr Aaron
-  surname: Snoswell
+  name: Alise
+  surname: Fox
   pronouns: 
-  company: Generative AI Lab (QUT)
+  company: QLD Department of Agriculture, Fisheries and Forestry
   title: Senior Research Fellow
-  bio: "Dr Aaron Snoswell is a computer scientist and senior research fellow in AI accountability at the QUT Generative AI Lab. Aaron’s research uses computational and socio-technical approaches to investigate the cultural and social impacts of Generative AI. Past and ongoing projects include the development of measurement and mitigation frameworks for toxicity in Large Language Models (LLMs); co-designing appropriate industry and policy responses to Generative AI’s rapid integration across society; using Explainable AI methodologies and moral philosophy frameworks to understand how logical and moral reasoning processes work (or don’t) in Generative AI language agents; and studying the socio and cultural well-being implications of companion chat-bots and “virtual influencers”."
-  thumbnailUrl: aaron_snoswell.jpg
+  bio: 
+  thumbnailUrl: alise_fox.jpg
   rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social: https://www.qut.edu.au/about/our-people/academic-profiles/a.snoswell
+  social: http://alisefox.com/
 -
   id: 104
   name: Allison
