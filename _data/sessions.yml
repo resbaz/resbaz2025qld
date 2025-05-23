@@ -181,23 +181,38 @@
 
 <p>By the end of the session, participants will have practical experience in auditing generative AI tools and a deeper understanding of how to critically engage with their integration into academic research and writing.</p>"
 -
-  title: Using Leximancer and Obsidian
+  title: "Bridging research and real-world impact: CSIRO's ON Innovation Program"
   themes: []
   id: 2012
-  speakers: [209]
+  speakers: [244]
   subtype: Workshop
   service:
   hidden: false
-  description: This presentation will explore the PhD student’s use of tools to prepare for her confirmation (Obsidian) and to analyse textual data (Leximancer), which led to the publication of an article. Participants will gain valuable insights into the use of these tools and how they facilitated a successful research collaboration with her research supervisor and other academics outside the university.
+  description: "The CSIRO ON Innovation Program helps transform cutting-edge research into real-world impact. Designed for research-driven innovation, ON provides entrepreneurial researchers with the skills, networks, and pathways to successfully commercialise their ideas. The program fosters collaboration between researchers, industry, and investors, driving Australia’s deep-tech innovation and strengthening its innovation ecosystem."
 -
-  title: Academic Writing Tips and Skills (without AI)
+  title: Maximising Health Research Outcomes with Secondary Clinical Trial Data
   themes: []
   id: 2013
-  speakers: [210]
+  speakers: [245]
   subtype: Workshop
   service:
   hidden: false
-  description: The researchers face lot of trouble in writing their ideas. I would like to share my learnings and tips on how to properly and systematically write, how to structure the ideas, common mistakes and how to avoid them. This workshop will focus on writing skills without using any AI tools because at the end, academic writing has to be original and human created. 
+  description: "
+<p>Clinical data sharing in health and medical research offers significant potential to uncover new discoveries and increase efficiency in the research process, which will overall improve patient outcomes. To support this, the Australian Research Data Commons (ARDC) has built national research infrastructure to enhance the discoverability, access, and reuse of data from health research studies across Australia. </p>
+
+<p>In this workshop, participants will learn how to discover and request clinical trials data using one of ARDC’s key national platforms: Health Data Australia (HDA). The HDA platform is a national catalogue designed to connect researchers with valuable Australian health datasets (researchdata.edu.au/health/).</p>
+
+<p>This workshop will also introduce a practical framework for the secondary use of clinical trials data, developed in collaboration with the Health Studies Australian National Data Asset (HeSANDA) and researchers from the NextGen Evidence Synthesis Team at the NHMRC Clinical Trials Centre, University of Sydney. The development of the practical framework for the secondary use of clinical trials data was also informed by research literature, stakeholder consultations, and expert guidance.</p>
+
+<p>This workshop is designed for researchers, data scientists, and health professionals interested in leveraging secondary clinical trials data for new research. By the end of this workshop, participants will be able to:</p>
+
+<ul>
+<li>Use the Health Data Australia platform to discover and request access to clinical trials data.</li>
+<li>Describe the four domains of data reuse outlined in the Secondary Use Framework and supporting User Guides. These domains are detailed in 'Secondary use of clinical trials data in health research: A Practical Guide' (Hunter et al. 2024). </li>
+<li>Evaluate the benefits, challenges, and ethical considerations associated with using secondary health data.</li>
+<li>Reflect on opportunities to incorporate secondary clinical trial data into their own research practices.</li>
+</ul>
+" 
 -
   title: Introduction to R
   themes: []
@@ -227,14 +242,26 @@
   description: "<p>eResearch workflows increasingly rely on new computing technologies, such as big data analytics, massively-parallel computer simulations, or large-scale AI training workloads. These technologies promises to vastly increase the scale and kind of research that's possible to do... if we can write our code to take full advantage of them. Making use of big compute and big data often requires a shift in thinking around how we structure our code, as inefficient software limits how effectively you can use these computing resources. Plus, time spent waiting for code or data pipelines to complete is time not spent doing research.</p>
   <p>Squeezing every available bit of performance out of your code can be extremely time-consuming, but fortunately, a little bit of know-how can go a long way. This talk will provide an introduction to performance engineering, with a focus on practical techniques for compute- and data-heavy workflows. I will discuss important trends in research computing hardware and software, as well as how the prominence of high-level languages such as Python and R have changed the research computing landscape. Finally, I'll share some methodologies and open-source tools which will help you get the most 'bang for your buck' when optimising slow code in your research pipelines.</p>"
 -
-  title: Using KeyPoint for Sensitive Data
+  title: Building a Species Distribution Model with EcoCommons Platform
   themes: []
   id: 2017
-  speakers: [228]
+  speakers: [230]
   subtype: Workshop
   service:
   hidden: false
-  description: "<p>Sensitive data is increasingly common in research, including in fields as disparate as population health, biosecurity, food-security and agriculture, environmental science and biodiversity, defence, humanities, Indigenous studies, and social science. All involve the production, use, analysis, and management of sensitive data. To unlock the full potential of data sets in such sectors, researchers need secure and trusted digital environments allowing them to hold sensitive data they produce or receive from third parties (e.g., government and industry) and/or collaborate at scale on sensitive data whilst always ensuring the security of that data.</p><p>QCIF, in conjunction with ARDC and The University of Queensland, has developed a purpose-built trusted research environment named KeyPoint.</p><p>This session will explore the governance model of KeyPoint, how we ensure strict project separation at the desktop, and finishes with a live demonstration of the platform.</p>"
+  description: "<p>EcoCommons Australia offers a comprehensive suite of resources for ecological modelling, including an intuitive, user-friendly platform featuring thousands of trusted datasets and a range of expert-developed workflows for species distribution and community modelling.</p>
+
+<p>This workshop will begin with a brief introduction to species distribution models (SDMs), followed by a guided tour of the EcoCommons platform. We will cover:</p>
+
+<ul>
+<li>How to access and acquire biodiversity records from open data portals,
+<li>An introduction to EcoCommons’ 59,000 curated environmental datasets,
+<li>Building SDMs using a selection of 19 available algorithms, and
+<li>Exploring and interpreting model outputs.</li>
+</ul>
+
+<p>By the end of the workshop, attendees will understand how to run effective SDMs, select fit-for-purpose data, and produce accurate and meaningful results — all within a point-and-click environment.</p>
+"
 -
   title: Data capture and form design using REDCap
   themes: []

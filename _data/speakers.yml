@@ -436,10 +436,13 @@
   id: 230
   name: Xiang
   surname: Zhao
-  pronouns: 
+  pronouns: He/Him
   company: QCIF
   title: Software Developer and R Specialist
-  bio: 
+  bio: "Xiang Zhao (Zhao) joined QCIF in 2024 as a Software Developer and R Specialist, focusing on maintaining and developing ecological algorithms for the EcoCommons Platform. During his MPhil at QUT, he utilized spatial mapping, modeling, statistics, and optimization algorithms to study historical biodiversity survey patterns in terrestrial Antarctica, proposing an optimal survey design for future research. At QUT, he also tutors in GIS and Environmental Planning units, leveraging his expertise in GIS and cartography.
+
+Zhao spent two years traveling across Australia as a backpacker. Prior to this, he worked on a conservation project in Southwest China aimed at protecting giant panda habitats from the threat of free-ranging livestock. This project earned him the BirdLife International Young Conservation Leaders Award.
+"
   thumbnailUrl: xiang_zhao.jpg
   rockstar: false
   ribbon:
@@ -614,6 +617,34 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.qut.edu.au/about/our-people/academic-profiles/michelle.riedlinger
+-
+  id: 244
+  name: Richelle
+  surname: McNae
+  pronouns: She/Her
+  company: CSIRO
+  title: 
+  bio: Richelle McNae, Innovation Program Advisor, loves working with teams to develop the skills they need to discover and engage with the customers for their research or technology.
+  thumbnailUrl: richelle_mcnae.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/richelle-mcnae
+-
+  id: 245
+  name: Dr Amany
+  surname: Gouda-Vossos
+  pronouns: 
+  company: ARDC
+  title: Skills Development Lead (Health and Medical)
+  bio: With expertise in molecular sciences, evolutionary biology, behavioural sciences, and health and science education, Amany employs an evidence-based approach to build the capabilities of researchers and project partners. Her passion to foster a strong learning culture was cultivated through her experience across university and corporate settings.
+  thumbnailUrl: amany_gouda-vossos.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/amany-gouda-vossos-9aaa1819b
 -
   id: 999
   name: Skeleton
