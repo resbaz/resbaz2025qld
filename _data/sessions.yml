@@ -72,50 +72,58 @@
   hidden: false
   description: 
 -
-  title: Introduction to data cleaning with OpenRefine
+  title: Impostor Syndrome
   themes: []
   id: 2001
-  speakers: [201,226]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: Learn basic data cleaning techniques in this hands-on workshop, working with structured text data and using open source software OpenRefine. <br> You will need a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that you have administrative privileges on.  
--
-  title: Personal Branding for Researchers (and the branding-averse)
-  themes: []
-  id: 2003
   speakers: [203]
   subtype: Workshop
   service:
   hidden: false
-  description: Craft a compelling personal brand as a research, content and technical expert in your field that doesn't leave you feeling like a snake-oil salesman. Investigate the why, how, where and when of branding opportunities, and get comfortable with the uncomfortable reality that you are the brand manager of your own career. The perfect workshop for any introverted, socially-awkward, branding-averse researcher who needs tips on how to successfully promote their career without selling their soul.
+  description: 
 -
-  title: ChattieG Cheats to Optimise your Research Resume
+  title: ARDC PIDS
+  themes: []
+  id: 2002
+  speakers: []
+  subtype: Workshop
+  service:
+  hidden: false
+  description: 
+-
+  title: "AI Basis: Unsupervised and Supervised Machine Learning using R"
   themes: []
   id: 2004
-  speakers: [203]
+  speakers: [236]
   subtype: Workshop
   service:
   hidden: false
-  description: "Leverage your favourite AI platform to: review job advertisements efficiently; assess your skills against a vacancy; unpack unknown assumptions about your skills; and translate your skills into job-ready jargon. This workshop is ideal if you struggle to define, evidence, or translate your academic research into industry terminology, or if you're exhausted by the prospect of relentlessly re-writing job applications. Learn the best cheats with ChattieG!"
+  description: "This workshop offers an introduction to Artificial intelligence (AI) methods and Machine Learning concepts, focusing on both Supervised and Unsupervised approaches. Participants will use R to explore techniques such as clustering and Random Forest, gaining experience with realistic data, that can be adapted to their field or study. Designed for beginners with basic R knowledge, the session will build foundational skills in applying AI to data analysis. No prior experience in machine learning is required, making this a practical and accessible entry point into modern AI methods."
 -
-  title: Using the EcoCommons platform to run species distribution models  
+  title: "EcoCommons: Calculating and visualising Species Richness and Shannon Diversity for analysing ecological surveys with EcoCommons Notebooks"
   themes: []
   id: 2005
-  speakers: [204,229,230]
+  speakers: [237]
   subtype: Workshop
   service:
   hidden: false
-  description: EcoCommons Australia offers a comprehensive suite of resources for ecological modelling. This includes a user-friendly platform with thousands of trusted datasets and a range of expert-developed species distribution and community modelling workflows. This workshop will begin with a brief introduction to species distribution models (SDMs), followed by a guided tour of the EcoCommons platform. Attendees will learn how to run effective SDMs, select fit-for-purpose data, and produce accurate and meaningful results in a point-and-click environment. 
+  description: "<p>EcoCommons Australia hosts a variety of Advanced Ecological Modelling Notebooks aimed at bridging the gap between platform-based analysis tools and hands-on coding. EcoCommons offers notebooks in both Quarto markdown (.qmd) and Jupyter Notebook (.ipynb) formats, making it easier for users to interact with and customise workflows. This workshop will focus on a notebook which guides users through the process of calculating and visualising Species Richness and Shannon diversity indices, which are a commonly used metrics for analysing and conducting statistical comparisons for ecological surveys.</p>
+<p>In this workshop we will cover:</p>
+<ul>
+<li>How to access EcoCommons notebooks</li>
+<li>Brief overview of the biodiversity metrics and their potential applications</li>
+<li>Running the Species Richness and Shannon diversity notebook</li>
+<li>Modification of notebook outputs for different use cases</li>
+</ul>
+<p>The aim of the workshop is to make participants feel confident to run an EcoCommons notebook and understand the workflow in calculating and visualising Species Richness and Shannon diversity.</p>"
 -
-  title: A New Tool for Managing Access to Sensitive Research Data  
+  title: "Productive and precise academic writing"
   themes: []
   id: 2006
-  speakers: [205]
+  speakers: [238]
   subtype: Workshop
   service:
   hidden: false
-  description: By attending this workshop, you will learn <br></ul>- About facilitating access to sensitive data at the Australian Data Archive<br></ul>- How to use the CADRE (Coordinated Access for Data, Research & Environments) platform<br></ul>- Key considerations for developing your own data sharing arrangements
+  description: "How to use your time wisely and write well. This session will focus on developing strategies for productive writing identifying useful tools and implementing tips and tricks to encourage regular writing as well as introducing the benefits of events such as Academic Writing Month and writing buddies/collaborations. The second part of the session will address common issues with academic writing and provide resources, tips and tricks to improve this important skill."
 -
   title: Qualitative Data Analysis using AI (Booked out)
   themes: []
@@ -180,34 +188,33 @@
   hidden: false
   description: The researchers face lot of trouble in writing their ideas. I would like to share my learnings and tips on how to properly and systematically write, how to structure the ideas, common mistakes and how to avoid them. This workshop will focus on writing skills without using any AI tools because at the end, academic writing has to be original and human created. 
 -
-  title: Statistical Comparisons in R
+  title: Introduction to R
   themes: []
   id: 2014
-  speakers: [215,224,216]
+  speakers: [234,235]
   subtype: Workshop
   service:
   hidden: false
-  description: This practical workshop will help participants to choose and use the appropriate standard statistical test for their data by introducing key concepts of inferential statistics in R. Participants will learn how to compute and interpret hypothesis tests for popular statistical models such as correlation, contingency tables, chi-square test, t-test and ANOVA.
+  description: 
 -
   title: "Introduction to programming: Plotting and Programming with Python"
   themes: []
   id: 2015
-  speakers: [218,217,223]
+  speakers: [212,232]
   subtype: Workshop
   service:
   hidden: false
   description: Participants will learn about basic programming concepts including simple and complex data types, conditionals and looping that are applicable to Python and other languages. This workshop will prepare participants to carry out batch analysis and equip them with the knowledge to start creating automated pipelines to increase data processing power and productivity.
 -
-  title: Make your code go fast, fast
+  title: "Making code go fast: an introduction to performance engineering in research"
   themes: []
   id: 2016
   speakers: [211]
   subtype: Workshop
   service:
   hidden: false
-  description: "<p>Make your code go fast, fast - practical performance engineering for research software.</p>
-  <p>Whether you're running massively-parallel computer simulations or processing huge amounts of research data, research software across all domains increasingly requires the use of large-scale data and computational resources. As a result, it's becoming increasingly important to be able to write fast, well-optimised code to ensure efficient use of computational resources such as high-performance computing clusters, as well as improved turnaround time on research outcomes. Simply put, time spent waiting for code to run is time not spent doing research.</p>
-  <p>Squeezing every available bit of performance out of your code can be extremely time-consuming, but fortunately you can go a long way with just a little bit of programming know-how applied in the right places. This talk will provide an introduction to performance engineering, with a focus on practical, well-tested techniques for both compute- and data-heavy workflows. I will discuss methodologies and open-source tools which will help you get the most 'bang for your buck' when optimising slow code in your research pipelines.</p>"
+  description: "<p>eResearch workflows increasingly rely on new computing technologies, such as big data analytics, massively-parallel computer simulations, or large-scale AI training workloads. These technologies promises to vastly increase the scale and kind of research that's possible to do... if we can write our code to take full advantage of them. Making use of big compute and big data often requires a shift in thinking around how we structure our code, as inefficient software limits how effectively you can use these computing resources. Plus, time spent waiting for code or data pipelines to complete is time not spent doing research.</p>
+  <p>Squeezing every available bit of performance out of your code can be extremely time-consuming, but fortunately, a little bit of know-how can go a long way. This talk will provide an introduction to performance engineering, with a focus on practical techniques for compute- and data-heavy workflows. I will discuss important trends in research computing hardware and software, as well as how the prominence of high-level languages such as Python and R have changed the research computing landscape. Finally, I'll share some methodologies and open-source tools which will help you get the most 'bang for your buck' when optimising slow code in your research pipelines.</p>"
 -
   title: Using KeyPoint for Sensitive Data
   themes: []

@@ -41,47 +41,19 @@
     - {abbr: "", title: "", url: ""}
   social: http://alisefox.com/
 -
-  id: 104
-  name: Allison
-  surname: Bambrick
-  pronouns: She/Her
-  company: Science Development and Office of the Queensland Chief Scientist
-  title: Executive Director
+  id: 200
+  name: Skeleton
+  surname: 
+  pronouns: 
+  company: 
+  title: 
   bio: 
-  thumbnailUrl: allison_bambrick.webp
-  rockstar: true
+  thumbnailUrl: 
+  rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social: https://www.linkedin.com/in/allison-bambrick-she-her-4975a615a
--
-  id: 105
-  name: Prof. Kerrie
-  surname: Mengersen
-  pronouns: She/Her
-  company: QUT
-  title: Professor of Statistics
-  bio: "Kerrie Mengersen holds a BA (Hons) in Mathematical Statistics and Computing and a PhD in Mathematical Statistics, both from the University of New England, NSW Australia. She has held positions as a commercial statistical consultant and an academic staff member at four Australian Universities. She is currently a Distinguished Research Professor in Statistical Science and the Director of the QUT Centre for Data Science at QUT, and holds a concurrent role as Associate Member in the Department of Statistics at the University of Oxford, UK. She was a Deputy Director in the ARC Centre of Excellence in Mathematical and Statistical Frontiers (2015-2021) and an ARC Laureate Fellow (2015-2021). In 2018 she was elected as a Fellow of the Australian Academy of Science (AAS), the Academy of Social Sciences in Australia (ASSA) and the Queensland Academy of Arts and Sciences (QAAS). She is an active member of the Institute for Mathematical Sciences, International Biometrics Society, International Statistical Institute and the Statistical Society of Australia.<br>Research Distinguished Professor Mengersen focuses on using and developing new statistical and computational methods that can help to solve complex problems in the real world. These problems are in the fields of environment, genetics, health and medicine, and industry. She enjoys working with a diverse range of people doing outstanding things in many different areas, and contributing expertise in an important component of their work."
-  thumbnailUrl: kerrie_mengersen.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://www.qut.edu.au/about/our-people/academic-profiles/k.mengersen
--
-  id: 106
-  name: Dr Tapani
-  surname: Rinta-Kahila
-  pronouns:
-  company: UQ School of Business
-  title: ARC DECRA Fellow
-  bio: "Dr Tapani Rinta-Kahila is a Lecturer of Business Information Systems and an ARC DECRA Fellow at The University of Queensland Business School. He holds a doctoral degree from Aalto University School of Business, where he wrote an award-winning dissertation on the decommissioning of organisational information systems. His research focuses on issues around the implementation and management of artificial intelligence (AI) systems in organisations, unintended consequences of technology use, and replacement of organisational information systems (IS). In particular, Tapani strives to understand how contemporary technologies such as AI affect the way in which people learn, work and organise, and how the negative consequences of such technologies can be managed."
-  thumbnailUrl: tapani_rinta-kahila.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://business.uq.edu.au/profile/7312/tapani-rinta-kahila
+  social: 
 -
   id: 201
   name: Sharron
@@ -95,7 +67,7 @@
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: 
 -
   id: 202
   name: Dr Sam
@@ -112,18 +84,18 @@
   social: https://about.uq.edu.au/experts/35549
 -
   id: 203
-  name: Karen
-  surname: Cavu
-  pronouns: She/Her
-  company: QUT
-  title: Research Fellow
-  bio: Karen Cavu is a certified career coach with 15 years experience in higher education, specializing in career development support for emerging and early career researchers. With a background in HR consulting, recruitment, training and business development for over a decade, Karen understands how to navigate the recruitment landscape and translate research skills into job-ready jargon. Karen is currently the HDR Career Educator at QUT and sessional academic for QUT's postgraduate career counselling units.  
-  thumbnailUrl: karen-cavu.jpg
+  name: Amanda
+  surname: Miotto
+  pronouns: 
+  company: 
+  title: 
+  bio: 
+  thumbnailUrl: 
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://amandamiotto.github.io/
 -
   id: 204
   name: Dr Jenna
@@ -488,3 +460,90 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.qcif.edu.au/qcif-people/dr-andrew-jones
+-
+  id: 232
+  name: Senn
+  surname: Oon
+  pronouns: They/Them
+  company: QUT
+  title: 
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://research.qut.edu.au/mabpp/people/senn-oon/
+-
+  id: 234
+  name: Danny
+  surname: Meloncelli
+  pronouns: 
+  company: UniSC
+  title: 
+  bio: 
+  thumbnailUrl: danny_meloncelli.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://research.usc.edu.au/esploro/profile/daniel_meloncelli/overview
+-
+  id: 235
+  name: Fellice
+  surname: Catelo
+  pronouns: 
+  company: UniSC
+  title: 
+  bio: 
+  thumbnailUrl: fellice_catelo.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/fdcatelo
+-
+  id: 236
+  name: Dr Virginie
+  surname: Perlo
+  pronouns: 
+  company: QUT
+  title: 
+  bio: "<p>Dr Virginie Perlo is a Postdoctoral Research Fellow - Data Science at Queensland University of Technology (QUT). She graduated with a PhD in Bioinformatics and Genetics at the University of Queensland (2021). She also holds two Master’s degrees in Molecular Biology and Genetics (Pierre and Marie Curie University (UPMC), now Sorbonne University) and in Aquatic Productions Management (University of Montpellier).</p><p>Dr Perlo has more than ten years of experience in molecular biology, multi-omics analysis and bioinformatics on big projects. She also has significant experience in public and private informatics sectors, holding diverse roles such as a software engineer, project manager, and business analyst. She has a strong interest in metabolic network modelling, data visualisation, unsupervised machine learning and artificial intelligence (AI). She is currently involved in the Mind and Body performance patch project funded by the Defence Science and Technology (DST). Her role in the project as a data scientist will be to generate a pipeline to combine many datasets (omics, psychological and physiological) to identify stress biomarkers and optimise human performance.</p>"
+  thumbnailUrl: virginie_perlo.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qut.edu.au/about/our-people/academic-profiles/virginie.perlo
+-
+  id: 237
+  name: Dr Ryan
+  surname: Newis
+  pronouns: 
+  company: QCIF
+  title: 
+  bio: "Ryan has a diverse range of research experience (lab, field, data analysis) within the environmental sciences, ranging from environmental and ecological monitoring (water, soil, plants, animals) to chemical, landscape and molecular ecology. Ryan played a key role in pollination ecology research at Griffith University, focused on using field and molecular techniques to investigate the impacts of bee and insect pollination on horticultural crop yield, quality, nutrition and paternity. His own PhD studies focused on exploring the impacts of stingless beehive propagation, and tree resin (e.g. Eucalyptus) foraging behaviour using molecular techniques such as DNA metabarcoding. 
+
+At QCIF, Ryan is a Data Scientist and R Developer within the EcoCommons and Sustainable Futures team."
+  thumbnailUrl: ryan_newis.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/ryan-newis
+-
+  id: 238
+  name: Dr Sara
+  surname: Hutchinson
+  pronouns: She/Her
+  company: UniSC
+  title: 
+  bio: "Dr Sara Hutchinson works at UniSC as a Student Success and Learning adviser and has a background in written communication. She taught into Creative writing and English at the university before taking up the professional role where she specialises in HDR support including running Academic Writing Month and one-on-one writing sessions."
+  thumbnailUrl: sara_hutchinson.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/dr-sara-hutchinson-652227b2
+-
