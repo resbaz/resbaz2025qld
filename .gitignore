@@ -16,5 +16,8 @@ automation/gsheets_api/*token*
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
-#ignore Mac .DS_Store file#
+# ignore Mac .DS_Store file#
 .DS_Store
+
+# ignore naggy font file
+fonts/desktop.ini
