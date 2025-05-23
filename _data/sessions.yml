@@ -125,50 +125,61 @@
   hidden: false
   description: "How to use your time wisely and write well. This session will focus on developing strategies for productive writing identifying useful tools and implementing tips and tricks to encourage regular writing as well as introducing the benefits of events such as Academic Writing Month and writing buddies/collaborations. The second part of the session will address common issues with academic writing and provide resources, tips and tricks to improve this important skill."
 -
-  title: Qualitative Data Analysis using AI (Booked out)
+  title: Research data and high-performance computing at Pawsey
   themes: []
   id: 2007
-  speakers: [206]
+  speakers: [211]
   subtype: Workshop
   service:
   hidden: false
-  description: The workshop will cover the use of LLM to process data qualitatively as well as perform extractive reasoning on the data. LLM Summarisation of data and outputs is also discussed. The objective of the workshop is to demonstrate the usefulness of LLM to accelerate research outputs and discovery when working with research data. We will discuss the benefits and limitations as well as the considerations that need to be made with data and data processing. There will be a practical demonstration of the processing of some data drawn from various sources such as Reddit, YouTube and NewsTalk. 
+  description: "<p>Are you looking to scale up your eResearch workflows to use really big data or compute? Interested in AI but no idea where to start? No worries, I got your back!</p><p>The Pawsey Supercomputing Research Centre is one of two Tier-1 supercomputing facilities in Australia. Pawsey is home to Australia's (and the southern hemisphere's!) most powerful supercomputer, Setonix, but we also provide a range of training, software engineering and research data consulting services to Australian researchers across a wide variety of research domains. We can help get you up and running, or work with you to help optimise your data and compute workflows to make sure you get the most out of your research tools.</p><p>In this talk, I'll provide an overview of Pawsey's high-performance computing and research data systems, as well as how we're working with researchers in Queensland to develop and optimise research software across domains like physics, chemistry, and health and life sciences. I'll also discuss the available schemes to get access to Pawsey's systems and services, and round it out with plenty of time for Q&A.</p>"
 -
-  title: Demystifying AI for Research (Booked out) 
+  title: TERN Services to Enable Research in Ecosystem Science
   themes: []
   id: 2008
-  speakers: [206]
+  speakers: [239]
   subtype: Workshop
   service:
   hidden: false
-  description: This workshop aims to raise awareness of the potential for AI to accelerate and enhance research outputs for the current research milieu. AI is now a fact of life for research and is being increasingly used by students at both undergraduate and post graduate level. This workshop  will cover the newest developments in AI and introduce what AI means for research and how researchers can be prepared for it. The workshop will also cover what researchers need to ask for from research infrastructure at their institution. We will try to present a balanced view of both sides of the arguments for and against the use of AI in research. The format will be informal and will encourage discussion.
+  description: "<p>Discover how TERN’s national-scale infrastructure supports cutting-edge ecosystem research. This workshop introduces TERN’s open-access data, tools, and services, which help researchers monitor and understand Australia’s diverse environments. Through case studies and interactive demonstrations, participants will learn how to access and apply TERN resources to advance their work in ecosystem science, environmental management, and beyond. The workshop is ideal for researchers, students, environmental managers, and policymakers interested in advancing their understanding of Australian ecosystems through robust, open-access infrastructure.</p><p>Whether new to TERN or looking to deepen your engagement, this session will equip you with the knowledge and tools to harness TERN’s capabilities to support impactful ecosystem science.</p>"
 -
-  title: "Running an AI locally: Can it be done?"
+  title: Why you need an ORCID
   themes: []
   id: 2009
-  speakers: [206]
+  speakers: [240]
   subtype: Workshop
   service:
   hidden: false
-  description: This workshop aims to demonstrate how a small open LLM can be run locally to automate small, simple tasks locally without the need to use of commercial models. This is a very recent development in the AI space and therefore might be considered an advanced topic for many users. The workshop will assume some intermediate level of coding and will be based in notebooks for ease of hardware specs. The workshop will cover the basic set up and a discussion of the types of models that will work and where to acquire them. Then a simple workflow will be described. Attendees may bring their own data and the notebooks can be provided as long as the attendee can confidently use them on their hardware and coding environment.
+  description: "Think of your ORCID iD as your academic foot print.  Your unique 16 digit identifier that keeps all your research neatly connected in one place. It’s more than just a profile,  because it connects and consolidates all your research outputs and activities.  By allowing trusted organisations like ARC, NHMRC, your university, or publishers to update your ORCID record automatically, you can skip the tedious admin work and dive deeper into what really matter, your research! Keep your academic identity strong and stress free with ORCID"
 -
-  title: "Ethics Advisor: AI & RAG for discussion & advice based on ethics guides"
+  title: "Crafting Your Research Profile"
   themes: []
   id: 2010
-  speakers: [207]
+  speakers: [238,241]
   subtype: Workshop
   service:
   hidden: false
-  description: Discussion, demonstration, and implementation of RAG (Retrieval Augmented Generation) as an approach for exploring large and complex data sources
+  description: "<p>In this interactive session, you'll explore how to shape a researcher profile that captures more than just your titles, it reflects your journey, your purpose, and what makes your work matter. Think less “template,” more you on the page. We’ll share tips for building authentic profiles across digital platforms so you can take what fits and make it your own.</p>
+<ul>
+<li>Know the purpose and benefits of researcher profiles.</li>
+<li>Become familiar with commonly used researcher profiles.</li>
+<li>Analyse the components of an effective profile and identify what type of profiles will be most relevant to you</li>
+</ul>"
 -
-  title: "Collaborative User Groups: Could you start one? Come join ours!"
+  title: "Auditing Generative AI Tools for Academic Research and Writing"
   themes: []
   id: 2011
-  speakers: [208]
+  speakers: [242,243]
   subtype: Workshop
   service:
   hidden: false
-  description: Programmers are advised to debug their code by explaining it, line by line, to a rubber duck*. In fact, one of the best ways to troubleshoot your data/research/programming woes is to talk about them. User groups - i.e., communities of practice - offer a collaborative space for researchers to share, discuss and learn about the tools they use. Join us for a live user group - all programming languages welcome! Most of the session will be a drop-in space for any data/programming questions you have (we're teaming up with UQ's usual Python User Group) but we'll also include a discussion on how user groups work, what they take and approaches for starting them.<br>*Hunt, Andrew; Thomas, David (1999). The Pragmatic Programmer - From Journeyman to Master
+  description: "<p>This hands-on workshop builds on our ongoing research project aimed at understanding and demystifying the rapidly evolving ecosystem of research-specific generative AI (RGAI) tools. As generative AI becomes increasingly embedded in academic workflows, it is critical to develop methods for systematically evaluating these tools' capabilities, limitations, and implications.</p>
+
+<p>Building on our inventory of RGAI platforms, the workshop will guide attendees through a structured evaluation process based on the extended app walkthrough method (Light, Burgess & Duguay, 2016). This method enables a critical mapping of each tool’s affordances, constraints, intended applications, and embedded norms.</p>
+
+<p>Through collaborative analysis and discussion, we will explore how these walkthroughs can inform the development of 'report cards', a framework for communicating the technical and ethical dimensions of RGAI tools to broader academic and public audiences. Drawing on recent work (Snoswell et al., 2023; Gilbert et al., 2023), we will also consider how these evaluations can support future research into how generative AI is reshaping scholarly communication, authorship, and the academic publishing process.</p>
+
+<p>By the end of the session, participants will have practical experience in auditing generative AI tools and a deeper understanding of how to critically engage with their integration into academic research and writing.</p>"
 -
   title: Using Leximancer and Obsidian
   themes: []

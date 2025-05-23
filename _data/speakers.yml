@@ -523,9 +523,7 @@
   pronouns: 
   company: QCIF
   title: 
-  bio: "Ryan has a diverse range of research experience (lab, field, data analysis) within the environmental sciences, ranging from environmental and ecological monitoring (water, soil, plants, animals) to chemical, landscape and molecular ecology. Ryan played a key role in pollination ecology research at Griffith University, focused on using field and molecular techniques to investigate the impacts of bee and insect pollination on horticultural crop yield, quality, nutrition and paternity. His own PhD studies focused on exploring the impacts of stingless beehive propagation, and tree resin (e.g. Eucalyptus) foraging behaviour using molecular techniques such as DNA metabarcoding. 
-
-At QCIF, Ryan is a Data Scientist and R Developer within the EcoCommons and Sustainable Futures team."
+  bio: "<p>Ryan has a diverse range of research experience (lab, field, data analysis) within the environmental sciences, ranging from environmental and ecological monitoring (water, soil, plants, animals) to chemical, landscape and molecular ecology. Ryan played a key role in pollination ecology research at Griffith University, focused on using field and molecular techniques to investigate the impacts of bee and insect pollination on horticultural crop yield, quality, nutrition and paternity. His own PhD studies focused on exploring the impacts of stingless beehive propagation, and tree resin (e.g. Eucalyptus) foraging behaviour using molecular techniques such as DNA metabarcoding.</p><p>At QCIF, Ryan is a Data Scientist and R Developer within the EcoCommons and Sustainable Futures team.</p>"
   thumbnailUrl: ryan_newis.jpg
   rockstar: false
   ribbon:
@@ -546,4 +544,88 @@ At QCIF, Ryan is a Data Scientist and R Developer within the EcoCommons and Sust
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://au.linkedin.com/in/dr-sara-hutchinson-652227b2
+-
+  id: 239
+  name: Siddeswara
+  surname: Guru
+  pronouns: He/Him
+  company: TERN
+  title: 
+  bio: "Siddeswara Guru is a program lead of TERN Data Services and Analytics Platform. He leads a team to build data infrastructure to TERN observing and stakeholders datasets."
+  thumbnailUrl: siddeswara_guru.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/siddeswara-guru
+-
+  id: 240
+  name: Julie
+  surname: Toohey
+  pronouns: 
+  company: Australian Access Federation
+  title: 
+  bio: "Julie Toohey joined Australian Access Federation in the ORCID Community Specialist role and provides advice and assistance to members of the Australian ORCID Consortium."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/julie-toohey-735716111
+-
+  id: 241
+  name: Graham
+  surname: Matchett
+  pronouns: He/Him
+  company: UniSC
+  title: 
+  bio: "Graham Matchett is a Career Guidance Officer at the University of the Sunshine Coast, with over 20 years’ experience helping individuals at all stages of their academic journey shape meaningful careers. He specialises in guiding people to articulate their professional identity, value proposition, and sense of purpose, translating these into authentic career narratives. Graham’s work bridges education, employability, and industry, supporting people to present themselves with clarity and confidence in academic and professional settings."
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 242
+  name: Dr Kevin
+  surname: Witzenberger
+  pronouns: He/Him
+  company: QUT
+  title: 
+  bio: "Kevin Witzenberger is a research fellow at QUT’s GenAI lab, Chief Investigator on an ARC funded Discovery Project on Generative AI and the future of academic writing and publishing, and affiliate investigator at the ARC Centre of Excellence for Automated Decision-Making and Society. His research background is grounded in science and technology studies and media theory. In the GenAI Lab Kevin’s research focuses on the risks and opportunities of generative AI and the skills and competencies required by humans and machines to address emerging social and cultural challenges."
+  thumbnailUrl: kevin_witzenberger.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qut.edu.au/about/our-people/academic-profiles/kevin.witzenberger
+-
+  id: 243
+  name: Prof. Michelle
+  surname: Riedlinger
+  pronouns: She/Her
+  company: QUT
+  title: 
+  bio: "Michelle Riedlinger is a Chief Investigator on an ARC funded Discovery Project on Generative AI and the future of academic writing and publishing. She is an Associate Professor at the Queensland University of Technology. Her research interests include platformised engagement with scientific research, and, most recently, how understandings generative authenticity are impacting knowledge industries. She collaborates with a team of researchers considering the impacts of GenAI on the scholar economy, building on the teams’ past research efforts investigating the platformisation of research discovery, digital disruptions to academic research communication, critical digital literacy in academic environments, AI’s cultures of use, ethics and policy implications."
+  thumbnailUrl: michelle_riedlinger.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qut.edu.au/about/our-people/academic-profiles/michelle.riedlinger
+-
+  id: 999
+  name: Skeleton
+  surname: 
+  pronouns: 
+  company: 
+  title: 
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
 -
