@@ -1,21 +1,21 @@
 - 
-  date: "2024-11-06"
-  dateReadable: "6th Nov 2024"
+  date: "2025-07-01"
+  dateReadable: "1st of July 2025"
   tracks: 
-    - {title: "Joan Hendrick Lecture Theatre - Bg 220 Lv 1 Room 07", color: "#2E8B57"}
-    - {title: "Lecture Theatre - Bg 220 Lv 1 Room 09", color: "#e91e63"}
-    - {title: "Computer Lab - Bg 220 Lv 1 Room 10", color: "#FF8C00"}
-    - {title: "Learning space - Bg 220 Lv 1 Room 11", color: "#48D1CC"}
-    - {title: "Computer Lab - Bg 220 Lv 1 Room 12", color: "#FF00FF"}
-    - {title: "Learning space - Bg 220 Lv 1 Room 13", color: "#48D1CC"}
-    - {title: "Learning space - Bg 216 Lv 1 Room 16", color: "#2E8B57"}
-    - {title: "Moot Court - Bg 216 Lv 1 Room 17", color: "#e91e63"}
+    - {title: "MBA1 - G.23 Auditorium", color: "#2E8B57"}
+    - {title: "MBA1 - G.25 Auditorium", color: "#e91e63"}
+    - {title: "MBA1 - 2.05", color: "#FF8C00"}
+    - {title: "MBA1 - 2.19", color: "#48D1CC"}
+    - {title: "MBA1 - 2.21", color: "#FF00FF"}
+    - {title: "MBA1 - G.32", color: "#48D1CC"}
+    - {title: "MBA1 - G.33", color: "#2E8B57"}
+    - {title: "MBA1 - G.34", color: "#e91e63"}
   timeslots:
-    - {startTime: "08:00", endTime: "09:00", sessionIds: [001]}
+    - {startTime: "08:45", endTime: "09:15", sessionIds: [001]}
     - {
-      startTime: "09:00",
+      startTime: "09:15",
       endTime: "10:30",
-      sessionIds: [000,2027,000,2014,2008,2012,20181,2015]
+      sessionIds: [000,000,000,000,000,000,000,000]
     }
     - {
       startTime: "10:30",
@@ -25,7 +25,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [2016,2013,000,2014,000,2006,20182,2015]
+      sessionIds: [000,000,000,000,000,000,000,000]
     }
     - {
       startTime: "12:30",
@@ -39,41 +39,27 @@
     }
     - {
       startTime: "14:00",
-      endTime: "14:30",
-      sessionIds: [102]
-    }
-    - {
-      startTime: "14:30",
-      endTime: "15:00",
-      sessionIds: [103]
-    }
-    - {startTime: "15:00", endTime: "15:30", sessionIds: [003]
-    }
-    - {startTime: "15:30",
-       endTime: "17:30",
-       sessionIds: [000,000,2001,2014,2009,2020,2017,2015]
+      endTime: "15:15",
+      sessionIds: [000,000,000,000,000,000,000,000]
     }
 -
-  date: "2024-11-07"
-  dateReadable: "7th Nov 2024"
+  date: "2025-07-02"
+  dateReadable: "2nd of July 2025"
   tracks: 
-    - {title: "Lecture Theatre - Bg 220 Lv 1 Room 09", color: "#e91e63"}
-    - {title: "Computer Lab - Bg 220 Lv 1 Room 10", color: "#FF8C00"}
-    - {title: "Learning space - Bg 220 Lv 1 Room 11", color: "#48D1CC"}
-    - {title: "Computer Lab - Bg 220 Lv 1 Room 12", color: "#FF00FF"}
-    - {title: "Learning space - Bg 220 Lv 1 Room 13", color: "#48D1CC"}
-    - {title: "Learning space - Bg 216 Lv 1 Room 16", color: "#2E8B57"}
-    - {title: "Moot Court - Bg 216 Lv 1 Room 17", color: "#e91e63"}
+    - {title: "MBA1 - G.23 Auditorium", color: "#2E8B57"}
+    - {title: "MBA1 - G.25 Auditorium", color: "#e91e63"}
+    - {title: "MBA1 - 2.05", color: "#FF8C00"}
+    - {title: "MBA1 - 2.19", color: "#48D1CC"}
+    - {title: "MBA1 - 2.21", color: "#FF00FF"}
+    - {title: "MBA1 - G.32", color: "#48D1CC"}
+    - {title: "MBA1 - G.33", color: "#2E8B57"}
+    - {title: "MBA1 - G.34", color: "#e91e63"}
   timeslots:
+    - {startTime: "08:45", endTime: "09:15", sessionIds: [001]}
     - {
-      startTime: "08:00",
-      endTime: "09:00",
-      sessionIds: [001]
-    }
-    - {
-      startTime: "09:00",
+      startTime: "09:15",
       endTime: "10:30",
-      sessionIds: [2019,2023,2024,2022,20211,2025,2015]
+      sessionIds: [000,000,000,000,000,000,000,000]
     }
     - {
       startTime: "10:30",
@@ -83,7 +69,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [2010,2023,2024,2011,20212,2003,2015]
+      sessionIds: [000,000,000,000,000,000,000,000]
     }
     - {
       startTime: "12:30",
@@ -93,30 +79,54 @@
     - {
       startTime: "13:30",
       endTime: "14:00",
-      sessionIds: [104]
+      sessionIds: [102]
     }
     - {
       startTime: "14:00",
-      endTime: "14:30",
-      sessionIds: [105]
+      endTime: "15:15",
+      sessionIds: [000,000,000,000,000,000,000,000]
+    }
+-
+  date: "2025-07-03"
+  dateReadable: "3rd of July 2025"
+  tracks: 
+    - {title: "MBA1 - G.23 Auditorium", color: "#2E8B57"}
+    - {title: "MBA1 - G.25 Auditorium", color: "#e91e63"}
+    - {title: "MBA1 - 2.05", color: "#FF8C00"}
+    - {title: "MBA1 - 2.19", color: "#48D1CC"}
+    - {title: "MBA1 - 2.21", color: "#FF00FF"}
+    - {title: "MBA1 - G.32", color: "#48D1CC"}
+    - {title: "MBA1 - G.33", color: "#2E8B57"}
+    - {title: "MBA1 - G.34", color: "#e91e63"}
+  timeslots:
+    - {startTime: "08:45", endTime: "09:15", sessionIds: [001]}
+    - {
+      startTime: "09:15",
+      endTime: "10:30",
+      sessionIds: [000,000,000,000,000,000,000,000]
     }
     - {
-      startTime: "14:30",
-      endTime: "15:00",
-      sessionIds: [106]
+      startTime: "10:30",
+      endTime: "11:00",
+      sessionIds: [002]
     }
     - {
-      startTime: "15:00", 
-      endTime: "15:30", 
-      sessionIds: [003]
+      startTime: "11:00",
+      endTime: "12:30",
+      sessionIds: [000,000,000,000,000,000,000,000]
     }
     - {
-       startTime: "15:30",
-       endTime: "17:30",
-       sessionIds: [000,2023,2026,2007,2005,2004,2015]
+      startTime: "12:30",
+      endTime: "13:30",
+      sessionIds: [004]
     }
     - {
-       startTime: "17:30",
-       endTime: "...",
-       sessionIds: [005]
+      startTime: "13:30",
+      endTime: "14:00",
+      sessionIds: [103]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "15:15",
+      sessionIds: [000,000,000,000,000,000,000,000]
     }

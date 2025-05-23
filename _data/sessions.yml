@@ -6,14 +6,14 @@
   hidden: true
   description: null  
 -
-  title: Registration - Building 216, Level 1 (ground floor), Room 18
+  title: Registration
   themes: []
   id: 001
   speakers: 
   hidden: true
   description:   
 -
-  title: Morning tea - Building 216, Level 1 (ground floor), Room 18
+  title: Morning tea (MBA1 - G.47/48)
   themes: []
   id: 002 
   speakers: 
@@ -21,7 +21,7 @@
   hidden: true
   description: null
 -
-  title: Afternoon tea - Building 216, Level 1 (ground floor), Room 18
+  title: Afternoon tea (MBA1 - G.47/48)
   themes: []
   id: 003
   speakers:
@@ -30,7 +30,7 @@
   hidden: true
   description: null
 -
-  title: Lunch and Stalls - Building 216, Level 1 (ground floor), Room 18
+  title: Lunch and Stalls (MBA1 - G.47/48)
   themes: []
   id: 004
   speakers:
@@ -39,16 +39,16 @@
   hidden: true
   description: null
 -
-  title: Networking drinks - Nudgee Beach Hotel
+  title: Networking drinks
   themes: []
   id: 005
   speakers:
   subtype:
   service:
   hidden: true
-  description: Join us for a relaxed evening of networking drinks at the <a href="https://www.nudgeebeachhotel.com.au/">Nudgee Beach Hotel</a> to celebrate the conclusion of ResBaz! From 5:30 pm onwards, this is the perfect opportunity to unwind, connect with fellow attendees, and reflect on the inspiring sessions and workshops we've experienced. We look forward to seeing you there! 
+  description: 
 -
-  title: Key Story - Inspiring students and giving them the tools they need to thrive at Uni
+  title: "Key Story - "
   themes: []
   id: 101
   speakers: [101]
@@ -56,7 +56,7 @@
   hidden: false
   description: null
 -
-  title: "Key Story - Navigating the future: The Synergy of Soft Skills, Digital Literacy and Career Evolution"
+  title: "Key Story - "
   themes: []
   id: 102
   speakers: [102]
@@ -64,37 +64,13 @@
   hidden: false
   description: null
 -
-  title: "Key Story - The Pro-social Ranking Challenge: reflections from a large-scale project translating AI research into practice"
+  title: "Key Story - "
   themes: []
   id: 103
   speakers: [103]
   subtype: talk
   hidden: false
-  description: "In 2024, the QUT Generative AI Lab, along with colleagues from the QUT Digital Media Research Centre (DMRC) and ARC Centre for Excellence in Automated Decision Making and Society (ADM+S) participated in the Pro-Social Ranking Challenge. Hosted by the Centre for Human-Compatible AI (CHAI) at UC Berkeley, this competition charged teams with re-designing social media feed algorithms, based on cutting edge science about wellbeing, and the latest AI technology advances. Our submission, which was selected as a finalist entry but not one of the winners, focused on reducing political polarization through a combination of interventions, utilising multiple 'off the shelf' and custom AI models. This short talk will share reflections from this international research collaboration, as well as lessons learned from translating an AI-centric research idea into a production quality software system over the course of a nine-month international collaboration."
--
-  title: Key Story - Queensland initiatives for science
-  themes: []
-  id: 104
-  speakers: [104]
-  subtype: talk
-  hidden: false
-  description: null
--
-  title: Key Story
-  themes: []
-  id: 105
-  speakers: [105]
-  subtype: talk
-  hidden: false
-  description: null
--
-  title: Key Story - Artificial Intelligence and the Future of Our Skills
-  themes: []
-  id: 106
-  speakers: [106]
-  subtype: talk
-  hidden: false
-  description: null
+  description: 
 -
   title: Introduction to data cleaning with OpenRefine
   themes: []
