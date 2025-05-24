@@ -263,92 +263,82 @@
 <p>By the end of the workshop, attendees will understand how to run effective SDMs, select fit-for-purpose data, and produce accurate and meaningful results — all within a point-and-click environment.</p>
 "
 -
-  title: Data capture and form design using REDCap
+  title: "Valuing What Matters: A Participatory Framework for Recognising Diverse Contributions"
   themes: []
-  id: 20181
-  speakers: [212,227]
+  id: 2018
+  speakers: [246]
   subtype: Workshop
   service:
   hidden: false
-  description: "This workshop will guide participants through the stages of the data capture process, from establishing the requirement, through field selection, form logic, and deployment. Participants will have an opportunity to follow along practical exercises to cement their understanding of the theory presented, using REDCap as an exemplary tool. Participant log-in details for the REDCap training environment will be provided on the day."
+  description: "<p>This workshop introduces Metavaluation, an open-source framework for recognising and rewarding diverse research contributions—from data sharing and teaching to mentoring, organising, and behind-the-scenes work that often goes unseen.</p>
+
+<p>Its key innovation lies in treating peer evaluations as valuable contributions themselves—using a self-referential process that pegs all other valuations to these reviews as a ‘base unit’ of value. This creates a dynamic feedback loop that directly rewards participation while generating transparent, relative value scores across all contributions.</p>
+
+<p>In the first part of the workshop, we’ll explore the development of Metavaluation—from its origins as a radically transparent peer-review model aimed at accelerating Open Science, to its evolution through participatory festivals into a general-purpose framework for community-led evaluation. We’ll share pilot data from commons-oriented communities across science, arts, technology, and environmental sectors—demonstrating how the system flexibly recognises what matters to different communities, while also creating pathways for coordination between them.</p>
+
+<p>In the second part, we’ll use ResBaz Queensland 2025 as a live case study. Participants will nominate and evaluate real contributions to the event—such as talks, mentorship, organising, or community support—via a simple, inclusive peer-review process. Together, we’ll generate a live dataset that maps what this community values most, and explore how this data can support recognition, guide future events, and connect aligned communities across domains.</p>
+
+<p>You’ll leave with:</p>
+
+<ul>
+<li>An understanding of key obstacles to the Open Science movement—and how Metavaluation addresses them</li>
+<li>Hands-on experience with participatory valuation</li>
+<li>A live dataset visualising ResBaz contributions and community values</li>
+<li>Tools to empower your own research group or community</li>
+<li>An invitation to join a participatory festival later in the year, organised through Metavaluation</li>
+<li>Recognition for your workshop contributions—credited within the Metavaluation system itself</li>
+</ul>
+"
 -
-  title: Data analysis and form design using REDCap
-  themes: []
-  id: 20182
-  speakers: [212,227]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: "This workshop continues from the earlier data capture session, to evaluate the consequences of form design and field selection on data formats, consistency and ease of analysis. Participants will have an opportunity to follow along practical exercises to cement their understanding of the theory presented, using REDCap as an exemplary tool. Participant log-in details for the REDCap training environment will be provided on the day."
--
-  title: How to design 'design methods' to support participation in research
+  title: "Mining genomic and RNASeq data to develop new eco-friendly insecticides to combat Red Imported Fire Ants"
   themes: []
   id: 2019
-  speakers: [213]
+  speakers: [247]
   subtype: Workshop
   service:
   hidden: false
-  description: "In this design methods workshop, learn about the basics of how to create participatory design methods, tools, and techniques. We will explore what considerations are important to creatively scaffold participation in collaborative research settings. The workshop will cover practical strategies to design ‘design methods’, importance of materiality and staging, as well as how reformatting outcomes can create meaningful value."
+  description: "A bioinformatics/molecular led talk, covering the use of computational analysis in research."
 -
-  title: A gentle introduction to stable diffusion and generative text-to-image models
+  title: "Introductory Data Cleaning/Exploration with Python/Pandas"
   themes: []
   id: 2020
-  speakers: [103]
+  speakers: [206]
   subtype: Workshop
   service:
   hidden: false
-  description: "<p>In this hands-on workshop, participants will learn more than they ever wanted to know about how generative text-to-image models work. Come and look 'under-the-hood' of DALL-E, MidJourney, Stable Diffusion, and other similar systems as you work through a series of interactive python Jupyter notebooks to deconstruct then re-construct a diffusion model from scratch. By the end of the workshop, you will understand the components that go into making a contemporary GenAI image generator, be equipped to critique and study these socio-technical systems, and will hopefully have had some fun interrogating and interacting with all of the technological 'ingredients' along the way.</p>
-  <p>Some familiarity with python and/or Jupyter notebook is recommended for participants. Participants are strongly encouraged to bring their own laptop to work through the activities on the day. Optionally, participants can get started with the notebooks early by browsing to <a href='https://research.qut.edu.au/genailab/projects/unboxing-genai/#:~:text=A%20Gentle%20Introduction%20to%20Stable%20Diffusion'>this page</a>, under the heading 'A Gentle Introduction to Stable Diffusion'.</p>"
+  description: "This workshop will introduce participants to loading, cleaning and exploring data in Python with the aid of Pandas. This will be a BYO data focussed workshop with participants encouraged to bring their csv, excel or other files. The main objective is to get participants familiar with loading and exploring data in environments that are not Excel in preparation for more sophisticated computational methods."
 -
-  title: "Text Analytics part 1: Introduction to R for Text Analysis"
+  title: "Studying digital platforms with data donation tools from the Australian Internet Observatory"
   themes: []
-  id: 20211
-  speakers: [202,220]
+  id: 2021
+  speakers: [248]
   subtype: Workshop
   service:
   hidden: false
-  description: "<p>Are you looking to improve your text analysis skills using R? This introductory session will focus on setting up efficient workflows for analysing language data in R and RStudio. The workshop is ideal for participants with basic R skills who want to explore how R can be applied to text analysis. In this hands-on session, you will learn:</p>
-<ul>
-<li>How to properly configure R and RStudio for text analysis projects</li>
-<li>Techniques for loading, cleaning, and processing language data in R</li>
-<li>How to generate concordances (keyword-in-context displays) to better understand word usage in context</li>
-<li>Methods for extracting collocations and identifying keywords in your dataset</li>
-</ul>
-<p>This session will focus on best practices and optimal workflows, helping you work more efficiently and accurately when processing language data. Whether you're a linguist, social scientist, or researcher in the humanities, this workshop will give you the skills to get the most out of your data analysis in R.</p>"
+  description: "<p>This workshop introduces the Australian Internet Observatory (AIO). Focusing on data donation approaches and the AIO dashboard, it will showcase how researchers of all skill levels can collect and study data using these tools. We will explore what topics can be investigated, what insights can be gained, and how the AIO can complement or expand existing research methodologies.</p>
+
+<p>Participants will be introduced to the interfaces of digital media tools and their associated ethical considerations and limitations for social science and humanities research. This workshop aims to facilitate the use of digital media tools in research by introducing modern, cutting-edge resources that do not require sophisticated technical skills. These tools can be quickly deployed to explore a variety of research questions, allowing researchers to focus on their inquiries without a steep technical learning curve.</p>
+"
 -
-  title: "Text Analytics part 2: Interactive Text Analysis with LADAL Tools"
-  themes: []
-  id: 20212
-  speakers: [202,220]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: "<p>Not familiar with R but still want to dive into text analysis? In this second part of the workshop, we’ll introduce LADAL Tools, a suite of interactive notebooks designed to make text analysis accessible to researchers of all levels, allowing you to perform complex analyses without needing to code. During this session, we will:</p>
-<ul>
-<li>Demonstrate how to upload and clean your own language data using LADAL Tools</li>
-<li>Guide you through concordancing and keyword extraction to better understand patterns in your text</li>
-<li>Showcase advanced text analysis techniques such as topic modelling and network analysis</li>
-<li>Provide hands-on examples and real-time demonstrations to ensure you can follow along, even without coding experience</li>
-</ul>
-<p>Whether you’re a linguist, researcher, or academic from the humanities, social sciences, or related fields, this session will equip you with practical tools to enhance your text analysis without the steep learning curve of programming. You'll leave the workshop ready to apply LADAL’s easy-to-use tools to your own research data. For more information on LADAL Tools, visit the <a href='www.ladal.edu.au'>LADAL website</a>.</p>"
--
-  title: "Network Know-how: A Practical Workshop on Digital Research Infrastructure"
+  title: "How do our computers talk to each other? Learn about how the internet is wired together"
   themes: []
   id: 2022
   speakers: [221]
   subtype: Workshop
   service:
   hidden: false
-  description: "<p>Do networks and data feel like a foreign language? We’re here to help. In this hands-on workshop, we’ll break down the jargon and explore key topics like network basics, data movement, and tools to streamline your research.</p>
-<p>Join us for a fun exploration of the digital world where you’ll learn how to master the art of network tech, manage active research data, and transfer even the largest files with ease. By the end of this workshop, you’ll walk away with practical skills and the confidence to tackle complex internet and data challenges like a pro:</p>
+  description: "<p>This workshop will include jargon busting around network technologies. And some hands-on activities. You will learn about networks and diagnostic tools, and where all these things fit in the researcher’s toolkit.</p>
+ 
+<p>By the end of this workshop, you should be able to:</p>
+
 <ul>
-<li>Understand different internet connections in Australia and how to make the most of them.</li>
-<li>Learn key network terms and concepts.</li>
-<li>Run tests to check and improve your connection.</li>
-<li>Calculate data transfer times and move large files efficiently.</li>
-<li>Troubleshoot network challenges and find the best tools for data movement.</li>
+<li>Understand the basic differences between the different Internet technologies and connection types and in Australia and how to make the most of them.</li>
+<li>Describe and define different network concepts.</li>
+<li>Perform speed, ping, and traceroute tests to check your Internet connection.</li>
+<li>Calculate data transfer times.</li>
+<li>Understand various network and connectivity constraints.</li>
 </ul>
-<p>Boost your research toolkit and navigate networks with confidence!</p>"
+"
 -
   title: Introduction to geospatial data with R
   themes: []
@@ -417,4 +407,13 @@
   <li>What are the needs of the community and is the RSE-AUNZ meeting those needs?</li>
   <li>What can we do to get more active community participation? Eg. proactively sharing knowledge, joining the steering committee, or asking for help?</li>
   <li>How can we ensure greater equity and inclusion within the RSE-AUNZ community to better support and represent all members?</li></ul>"
+-
+  title: Statistical Comparisons in R
+  themes: []
+  id: 2028
+  speakers: [216]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: This practical workshop will help participants to choose and use the appropriate standard statistical test for their data by introducing key concepts of inferential statistics in R. Participants will learn how to compute and interpret hypothesis tests for popular statistical models such as correlation, contingency tables, chi-square test, t-test and ANOVA.
 -

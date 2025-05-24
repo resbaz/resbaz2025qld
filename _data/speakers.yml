@@ -131,7 +131,7 @@
   pronouns: He/Him
   company: QUT Digital Observatory
   title: Senior Data Scientist
-  bio: Robert Fleet is a senior data scientist at the QUT Digital Observatory, where he spearheads the development of innovative research software and cutting-edge methodologies for digital and computational research. With a keen focus on advancing the field, Robert is currently immersed in creating Large Language Model (LLM) pipelines for data analysis and exploring topic models that evolve over time.
+  bio: "Robert Fleet is a Senior Data Scientist/Developer at Queensland University of Technology's Research Infrastructure, where he specialises in AI implementation for research and social network analysis. He is also an Affiliate of the QUT node of the ARC Centre of Excellence for Automated Decision Making and Society, and a certified Carpentries Instructor."
   thumbnailUrl: robert_fleet.jpg
   rockstar: false
   ribbon:
@@ -313,7 +313,7 @@
   pronouns: She/Her
   company: AARNET
   title: Training and Engagement Lead
-  bio: Dr Sara King is the Training and Engagement Lead for AARNet and a member of the engagement team for the Language Data Commons of Australia. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone.
+  bio: "Dr Sara King is the Training and Engagement Lead for AARNet. She is focused on outreach within the research sector, developing communities of interest around training and skills development in eResearch. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone."
   thumbnailUrl: sara_king.jpg
   rockstar: false
   ribbon:
@@ -441,8 +441,7 @@
   title: Software Developer and R Specialist
   bio: "Xiang Zhao (Zhao) joined QCIF in 2024 as a Software Developer and R Specialist, focusing on maintaining and developing ecological algorithms for the EcoCommons Platform. During his MPhil at QUT, he utilized spatial mapping, modeling, statistics, and optimization algorithms to study historical biodiversity survey patterns in terrestrial Antarctica, proposing an optimal survey design for future research. At QUT, he also tutors in GIS and Environmental Planning units, leveraging his expertise in GIS and cartography.
 
-Zhao spent two years traveling across Australia as a backpacker. Prior to this, he worked on a conservation project in Southwest China aimed at protecting giant panda habitats from the threat of free-ranging livestock. This project earned him the BirdLife International Young Conservation Leaders Award.
-"
+Zhao spent two years traveling across Australia as a backpacker. Prior to this, he worked on a conservation project in Southwest China aimed at protecting giant panda habitats from the threat of free-ranging livestock. This project earned him the BirdLife International Young Conservation Leaders Award."
   thumbnailUrl: xiang_zhao.jpg
   rockstar: false
   ribbon:
@@ -645,6 +644,48 @@ Zhao spent two years traveling across Australia as a backpacker. Prior to this, 
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://au.linkedin.com/in/amany-gouda-vossos-9aaa1819b
+-
+  id: 246
+  name: Dr Cooper
+  surname: Smout
+  pronouns: 
+  company: Open Heart + Mind
+  title: Founder
+  bio: "Dr Cooper Smout is a neuroscientist, designer, and open science advocate working at the intersection of collective sensemaking, participatory governance, and systemic reform. He founded Free Our Knowledge, a collective action platform for academic reform, and Open Heart + Mind (OHM), a charitable organisation developing open-source tools to empower diverse communities. His current work centres on Metavaluation — a protocol for participatory evaluation that generates transparent, interoperable value metrics to support fair recognition and reward, decentralised coordination, and collective governance across research and commons-oriented ecosystems."
+  thumbnailUrl: cooper_smout.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://coopersmout.github.io/
+-
+  id: 247
+  name: Prof. Robert
+  surname: Harvey
+  pronouns: 
+  company: UniSC
+  title: Associate Dean, Research
+  bio: "Professor Harvey obtained his PhD in Natural Sciences (Biochemistry) from the University of Cambridge and carried out postdoctoral studies at the Institute for Cell Biology and Clinical Neurobiology in Hamburg and the Max-Planck-Institute for Brain Research in Frankfurt. Prior to his appointment at UniSC, he was Professor of Molecular Neuroscience and Genetics at the UCL School of Pharmacy (London, United Kingdom). At UCL, he was Associate Director for Research, Chair of Research Committee and Research Excellence Framework Impact co-ordinator. Professor Harvey also served on several Departmental and Faculty committees including the Athena Swan Committee, the UCL Open Access Academic Advisory Group and the UCL Faculty of Life Sciences Senior Management group. Prof Harvey relocated to the University of the Sunshine Coast in 2017, where he became Discipline Lead for Biomedical Science (2017-2022). He is currently Professor of Pathophysiology and Associate Dean (Research) for the School of Health (2022-2026). Prof Harvey is a member of the UniSC School of Health Executive and Chairs the UniSC School of Health Research Committee. He is also the Field Chief Editor of the open access journal Frontiers in Molecular Neuroscience. Prof Harvey has served as a peer reviewer for Science in Australia Gender Equity (SAGE), the National Health and Medical Research Council (NHMRC) and as a member of the Australian Research Council (ARC) College of Experts (2021-2024)."
+  thumbnailUrl: robert_harvey.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 248
+  name: Dr Bogdan
+  surname: Mamaev
+  pronouns: 
+  company: Australian Internet Observatory
+  title: Research Training Manager
+  bio: "Bogdan Mamaev is the Research Training Manager at the Australian Internet Observatory (AIO). Having utilised a variety of digital methods in his research and in collaborations within political science and communications, he is dedicated to empowering researchers to use these approaches to enhance research outcomes and design more efficient methodologies for data collection and exploration."
+  thumbnailUrl: bogdan_manaev.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.admscentre.org.au/dr-bogdan-mamaev/
 -
   id: 999
   name: Skeleton
