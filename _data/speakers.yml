@@ -701,6 +701,35 @@ Zhao spent two years traveling across Australia as a backpacker. Prior to this, 
     - {abbr: "", title: "", url: ""}
   social: https://languages-cultures.uq.edu.au/profile/6696/simon-musgrave
 -
+  id: 250
+  name: Dr Delaney
+  surname: Burnard
+  pronouns: 
+  company: UniSC / QCIF
+  title: eResearch Analyst
+  bio: "Delaney is a QCIF eResearch Analyst at UniSC, where she provides support to researchers in the STEM and cyber infrastructure space and hosts Hacky Hour. 
+Prior to her transition into professional roles, she was a Postdoctoral Research Fellow at the University of Queensland Centre for Clinical Research, using genomics combined with medical microbiology to further understand complex bacterial infections and aspects of their antimicrobial resistance, virulence, transmission and pathogenesis. "
+  thumbnailUrl: delaney_burnard.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/delaney-burnard-927a83302
+-
+  id: 251
+  name: Meirian
+  surname: Lovelace-Tozer
+  pronouns: 
+  company: 
+  title: 
+  bio: "Meirian is a Skills Development Lead (Services) at the Australian Research Data Commons (ARDC). With over 10 years of experience in education, Meirian is committed to making an impact through empowering Australian research communities with a competitive advantage. Meirian delivers training and resources that support researchers to effectively leverage ARDC services."
+  thumbnailUrl: meirian_lovelace-tozer.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://meirian.gitbook.io
+-
   id: 999
   name: Skeleton
   surname: 

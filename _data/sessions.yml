@@ -414,3 +414,26 @@
   hidden: false
   description: This practical workshop will help participants to choose and use the appropriate standard statistical test for their data by introducing key concepts of inferential statistics in R. Participants will learn how to compute and interpret hypothesis tests for popular statistical models such as correlation, contingency tables, chi-square test, t-test and ANOVA.
 -
+  title: Careers Panel
+  themes: []
+  id: 2029
+  speakers: [234,250]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: 
+-
+  title: "Accelerate Your Research with Cloud Computing on the ARDC Nectar Research Cloud"
+  themes: []
+  id: 2030
+  speakers: [251]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>Does your computer struggle with your research workload? Would you like to access extra resources and share a computer with collaborators?</p>
+
+<p>Whether it's data analysis, simulation, or other computing work, the ARDC Nectar Research Cloud provides researchers with more computational power. This service gives you access to fast, secure, and powerful cloud computers, helping you to accelerate your research!</p>
+
+<p>This session will feature exemplary cloud computing projects, useful support resources, and a Q&A opportunity. No prior knowledge or experience is required.</p>
+"
+-
