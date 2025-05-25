@@ -543,7 +543,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: "This workshop covers the basics ("101") of web archiving as an alternative to simple copying and pasting from the internet. It positions web archiving as a more sophisticated approach to digital research, while maintaining an accessible, beginner-friendly tone that invites participation from those new to the concept."
+  description: "This workshop covers the basics ('101') of web archiving as an alternative to simple copying and pasting from the internet. It positions web archiving as a more sophisticated approach to digital research, while maintaining an accessible, beginner-friendly tone that invites participation from those new to the concept."
 -
   title: "Beyond the Code: Effective Research Automation with Git, Ansible and Docker"
   themes: []
