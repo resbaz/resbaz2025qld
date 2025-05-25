@@ -545,3 +545,71 @@
   hidden: false
   description: "This workshop covers the basics ("101") of web archiving as an alternative to simple copying and pasting from the internet. It positions web archiving as a more sophisticated approach to digital research, while maintaining an accessible, beginner-friendly tone that invites participation from those new to the concept."
 -
+  title: "Beyond the Code: Effective Research Automation with Git, Ansible and Docker"
+  themes: []
+  id: 2039
+  speakers: [258]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>This presentation is designed for researchers, postgrads, and academics who manage their own code but may not have a background in system administration. Participants will learn how to use Git, Ansible, and Docker — three powerful tools that can transform the way they manage, automate, and share their research code.  </p>
+
+<p>During the presentation, attendees will be guided step-by-step through using Git for version control, Ansible for automated environment configuration, and Docker for creating consistent, portable execution environments. By the end of the session, participants will understand the fundamentals of git, automating system setups, and how to run their code in reproducible containers. </p>
+
+<p>Topics Covered:</p>
+<ul>
+<li>What is version control and why do you use it? </li>
+<li>Using GitHub for version control and collaboration </li>
+<li>What is Ansible and why do you use it? </li>
+<li>Creating and running Ansible playbooks </li>
+<li>Demonstration: Manually configuring environments vs automated Ansible setups  </li>
+<li>Understanding Docker containers and their benefits </li>
+<li>Overview of Docker Desktop </li>
+<li>How to create and run a docker container that runs your code </li>
+<li>Demonstration: Running basic docker containers </li>
+<li>Tips for best structuring your Git, Ansible, and Docker setups</li>
+</ul>
+"
+-
+  title: "Crafting Clarity: Data as Design"
+  themes: []
+  id: 2040
+  speakers: [259]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "Crafting Clarity: Data as Design is a 90-minute hands-on workshop for researchers who want to elevate their data storytelling. Moving beyond charts and tables, this session explores how design principles can transform raw data into compelling, clear, and impactful visual narratives. You'll learn practical strategies to communicate complexity, engage diverse audiences, and make your research more accessible and memorable. Whether you’re preparing a presentation, publication, or pitch, this workshop will give you the tools to design with intention, align form with meaning, and craft data stories that resonate. No design experience necessary, just curiosity and a willingness to experiment.
+"
+-
+  title: "Introduction to R Spatial"
+  themes: []
+  id: 2041
+  speakers: [222,260]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>Quick R spatial introduction, focusing on key concepts, and useful commands for handling and visualising vector data with essential R Spatial packages.</p>
+
+<p>(Prior knowledge of R is required. Please only register if you have used R before, or if you took part in this ResBaz' R introduction.</p>
+"
+-
+  title: "Introduction to Text Analytics in R"
+  themes: []
+  id: 2042
+  speakers: [202]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>This workshop will introduce methods for computational analysis of text, particularly core approaches from corpus linguistics (keyword analysis) and data science (topic modelling). Using pre-built computational notebooks from LADAL (https://ladal.edu.au/tools.html) we will introduce the steps and decisions needed to conduct a computational analysis of a textual corpus, and discuss how and where these approaches might fit into your research toolkit.</p>
+
+<p>You will learn how to:</p>
+
+<ul>
+<li>Run a computational notebook and modify some R code in a web-based environment.</li>
+<li>Conduct a keyword analysis and create topic models on a provided textual corpus.</li>
+<li>Identify what kind of textual data you need to apply these methods and the key steps in computational approaches to text.</li>
+</ul>
+<p>Note that this workshop is best taken following the workshop 'Exploring texts using concordances', but can be attended as a standalone. No experience programming in R is necessary.
+</p>
+"
+-

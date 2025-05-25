@@ -75,8 +75,8 @@
   pronouns: He/Him
   company: UQ
   title: Research Fellow
-  bio: Dr. Sam Hames is a research fellow in computational humanities with UQ's School of Languages and Cultures and also works on the Language Data Commons of Australia and the Australian Text Analytics Platform. Sam's PhD was on machine learning for medical imaging analysis, and he has an extensive background as a data-focused software developer supporting social media and web researchers. His primary research focus is to understand how computation can enable qualitative and interpretive inquiry across the humanities and social sciences. 
-  thumbnailUrl: SamHames.jpg
+  bio: "Dr. Sam Hames is a research fellow in computational humanities with UQ's School of Languages and Cultures and the research analytics lead for the Language Data Commons of Australia. Sam's PhD was on machine learning for medical imaging analysis, and he has an extensive background as a data-focused software developer supporting social media and web researchers. His primary research focus is to understand how computation can enable qualitative and interpretive inquiry across the humanities and social sciences."
+  thumbnailUrl: sam_hames.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
@@ -812,6 +812,48 @@ Mark's expertise and dedication to advancing research and education make him a h
   title: 
   bio: "An IT academic for the last 14 years in undergraduate education, now pursuing a PhD at Queensland University of Technology."
   thumbnailUrl: dimanthinie_de_silva.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 258
+  name: Steele
+  surname: Cooke
+  pronouns: He/Him
+  company: AARNet
+  title: 
+  bio: "Steele is a Software Developer at AARNet, collaborating on multiple research projects across the sector. He focuses on developing and refining proof of concepts, taking solutions from initial design through to implementation."
+  thumbnailUrl: steele_cooke.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/steelecooke
+-
+  id: 259
+  name: Jo
+  surname: McCallum
+  pronouns: 
+  company: Griffith
+  title: 
+  bio: "Jo McCallum is a skilled designer and knowledge exchange practitioner with a background in both traditional craft and emerging technologies. With over a decade of experience translating complex research into visual narratives, Jo has taught data design in both Australia and the UK, helping researchers, policy professionals, and creatives communicate their work with clarity and impact. Her practice sits at the intersection of insight and aesthetics, drawing on deep expertise in design thinking, visual strategy, and human-centred communication. Jo brings a collaborative, hands-on approach to data storytelling that empowers researchers to turn information into action."
+  thumbnailUrl: jo_mccallum.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.thefabricatedframe.com/about-1
+-
+  id: 260
+  name: Nicholas
+  surname: Wiggins
+  pronouns: He/Him
+  company: UQ
+  title: 
+  bio: 
+  thumbnailUrl: nicholas_wiggins.png
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
