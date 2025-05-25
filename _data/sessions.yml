@@ -350,30 +350,27 @@
   description: "<p>In this Data Carpentry workshop, learn how to import, work with, and plot vector and raster-format spatial data in R. The workshop also touches on spatial metadata (extent and coordinate reference systems), reprojecting spatial data, and working with raster time series data.</p>
   <p>This workshop expects attendees to have used R, dplyr and ggplot2 before.</p>"
 -
-  title: Analysing Categorical Outcomes and Logistic Regression
+  title: "First Steps with AI: An Introduction to Enhanced Data Exploration"
   themes: []
   id: 2024
-  speakers: [231,216]
+  speakers: [206]
   subtype: Workshop
   service:
   hidden: false
-  description: This practical half-day workshop will help participants to develop an understanding of the principles, methods, and interpretation of logistic regression, a statistical technique to generate binary (yes/no) outcomes from complex input data. The course will cover the principles of logistic regression and includes practical sessions getting hands-on experience of logistic regression in R.
+  description: "This workshop is designed for beginners taking their "first steps" with AI in data contexts and follows on from the first workshop in the series. It builds on the BYO data concept form the pervious workshop and moves from data ingress, cleaning and exploration to simple processing of data with AI as an aid."
 -
-  title: "Moving from insight to influence and impact: the power of data communication"
+  title: "Exploring texts using concordances"
   themes: []
   id: 2025
-  speakers: [225]
+  speakers: [249]
   subtype: Workshop
   service:
   hidden: false
-  description: "<p>This workhsop will cover:</p>
+  description: "<p>Concordances are a very useful tool for anyone who works with textual data. Concordancing tools (also referred to as Keyword in Context or KWIC tools) provide us with a listing of all occurrences of a word in a text along with some surrounding context. A concordance is therefore an excellent starting point to explore how a word is used in a text. Most KWIC tools also have the capability to sort results according to the context of the instances, by preceding words or following words or a combination of the two, and these capabilities allow us to extract more specific information from concordances.</p>
+  <p>In this workshop, you will:</p>
   <ul>
-  <li>Introduction to the Relational Insights Data Lab (RIDL) and the Griffith Data Trust (GDT)</li>
-  <li>What is impact reporting?</li>
-  <li>2 case studies</li>
-  <li>How to communicate and visualise impact - mistakes and lessons learned</li>
-  <li>Q & A panel with RIDL data analysts and data scientists</li>
-  <li>How to make your data matter</li>
+  <li>be introduced to a tool for building concordances (Antconc), </li>
+  <li>be shown examples of how simple and complex concordances can be used to answer questions about texts.</li>
   </ul>"
 -
   title: "R Shiny essentials: from data to interactive dashboards"
@@ -385,28 +382,28 @@
   hidden: false
   description: "R Shiny is a popular R package that allows you to transform complex analytics into powerful, user-friendly interactive visualisation tools.<br>In this workshop we will provide an introduction to R Shiny, and how you can use it to create web apps, and more interactive data visualisations.<br>We will go over how to build a basic Shiny application, and cover the best practices and resources when approaching Shiny."
 -
-  title: "BoF: Charting a path towards a sustainable community of people who work on Research Software"
+  title: "How do I move my truckload of data?"
   themes: []
   id: 2027
-  speakers: [228]
+  speakers: [221]
   subtype: Workshop
   service:
   hidden: false
-  description: "<p>Please join us to raise awareness across Queensland of the community of people who work on Research Software, the Research Software Engineer Australia New Zealand (RSE-AUNZ) community, and to understand the needs of the community.</p>
-  <p>This BoF would be of interest to people who:</p>
-  <ul>
-  <li>Develop research software and are worried about career progression,</li>
-  <li>Want to make the research software more visible,</li>
-  <li>Streamline and scale research workflows but feel undervalued,</li>
-  <li>Balance researcher needs with good software practices, and</li>
-  <li>Make research software easier to use.</li>
-  </ul>
-  <p>It would also be useful to those who manage RSEs or who struggle to recruit or maintain RSEs within their project lifecycles, and those who would like to help sustain this community.</p>
-  <p>Objectives would be to solicit feedback and discussion about the following topics :</p>
-  <ul>
-  <li>What are the needs of the community and is the RSE-AUNZ meeting those needs?</li>
-  <li>What can we do to get more active community participation? Eg. proactively sharing knowledge, joining the steering committee, or asking for help?</li>
-  <li>How can we ensure greater equity and inclusion within the RSE-AUNZ community to better support and represent all members?</li></ul>"
+  description: "<p>Have you ever wondered why, thanks to your fast internet at home you can stream movies in UltraHD smoothly, but your data upload is super slow?</p>
+
+<p>Sometimes sharing data with collaborators can be tedious, slow and frustrating.</p>
+
+<p>This workshop addresses some data handling solutions in a research context. The workshop will introduce some research data movement tools, with a hands-on introduction to FileSender and a peek into Globus, a service that enables large-scale data transfers.</p>
+
+<p>By the end of this workshop, you should be able to:</p>
+<ul>
+<li>Understand various network and connectivity constraints. </li>
+<li>Transfer large amounts of data via the network. </li>
+<li>Search for more advanced options for data movement and know where to go for help.</li>
+</ul>
+
+<p>Come along and learn how to make data transfer easy and convenient for you.</p>
+"
 -
   title: Statistical Comparisons in R
   themes: []

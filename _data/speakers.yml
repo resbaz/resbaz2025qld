@@ -687,6 +687,20 @@ Zhao spent two years traveling across Australia as a backpacker. Prior to this, 
     - {abbr: "", title: "", url: ""}
   social: https://www.admscentre.org.au/dr-bogdan-mamaev/
 -
+  id: 249
+  name: Dr Simon
+  surname: Musgrave
+  pronouns: He/Him
+  company: LDaCA / Monash
+  title: 
+  bio: "Simon Musgrave is Research Support and Training lead for the Language Data Commons of Australia project at The University of Queensland and an Adjunct Research Fellow in the School of Languages, Literatures, Cultures and Linguistics, Monash University. Amongst other research interests, he has been interested throughout his career in the  use of technology for linguistic research."
+  thumbnailUrl: simon_musgrave.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://languages-cultures.uq.edu.au/profile/6696/simon-musgrave
+-
   id: 999
   name: Skeleton
   surname: 
