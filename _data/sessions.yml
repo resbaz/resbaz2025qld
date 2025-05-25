@@ -613,3 +613,34 @@
 </p>
 "
 -
+  title: "How to use social media to your advantage"
+  themes: []
+  id: 2043
+  speakers: [261]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: ""
+-
+  title: "Copyright 101 for Researchers"
+  themes: []
+  id: 2044
+  speakers: [262]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>This session will demystify some of the questions you might have about copyright and your research.</p>
+
+<p>What you'll learn about: </p>
+<ul>
+<li>Overview of copyright.  </li>
+<li>Copyright and Indigenous Cultural and Intellectual Property (ICIP).</li>
+<li>How to use other's copyright material legally. </li>
+<li>How to protect your own copyright. </li>
+<li>Publishing agreements options and implications. </li>
+<li>Creative Commons licensing applications. </li>
+<li>Strategies on retaining your rights.</li>
+</ul>
+
+<p>Note, this session is designed to provide general copyright guidance, not legal advice.</p>"
+-

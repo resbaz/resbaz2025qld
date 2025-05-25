@@ -860,17 +860,32 @@ Mark's expertise and dedication to advancing research and education make him a h
     - {abbr: "", title: "", url: ""}
   social: 
 -
-  id: 999
-  name: Skeleton
-  surname: 
+  id: 261
+  name: Dr Karen
+  surname: Sutherland
   pronouns: 
-  company: 
+  company: UniSC
   title: 
-  bio: 
-  thumbnailUrl: 
+  bio: "Dr Karen Sutherland is a Senior Lecturer in Public Relations at the University of the Sunshine Coast, and a Certified AI Consultant. Dr Sutherland has a strong track record of guiding organisations in leveraging AI to enhance efficiency and reduce costs, providing AI guidance to organisations such as Eumundi Markets and Noosa Council. Her accolades include the 2023 Book Excellence Award in Public Relations and multiple Stevie Awards in 2022. She has designed and delivered training and workshops globally for over a decade across various sectors like health, small business, and education. Her research spans AI in strategic communication, B2B relationships, and social media practice. Dr Sutherland has authored two editions of her book 'Strategic Social Media Management – Theory and Practice' published by Palgrave Macmillan downloaded more than 160k times, and her next book, 'AI for Strategic Communication', is due for a 2025 release. Dr Sutherland has featured in academic journals and media including ABC News Breakfast, Nine News, the Wall Street Journal and has been Ticker's AI and social media expert for the past five years.
+"
+  thumbnailUrl: karen_sutherland.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social: 
+  social: https://www.usc.edu.au/staff/dr-karen-sutherland
+-
+  id: 262
+  name: Cameron
+  surname: Rutter
+  pronouns: He/Him
+  company: QUT
+  title: University Copyright Officer
+  bio: "Cameron Rutter (he/him) is a Creative Practitioner, Information Professional and Librarian with over fifteen years' experience working in academic libraries. He is currently the University Copyright Officer at Queensland University of Technology."
+  thumbnailUrl: cameron_rutter.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.library.qut.edu.au/about/contact/staff/c_rutter.jsp
 -
