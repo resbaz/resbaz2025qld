@@ -446,3 +446,102 @@
 <p>This session will feature exemplary cloud computing projects, useful support resources, and a Q&A opportunity. No prior knowledge or experience is required.</p>
 "
 -
+  title: "Equity, Inclusion, and Accessibility in Action: The Carpentries Way"
+  themes: []
+  id: 2031
+  speakers: [252]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "The Carpentries is an international data science training organisation with a strong focus on Inclusion, Diversity, Equity, and Accessibility (IDEA). In this session we will use extracts from the Carpentries Instructor training curriculum to discuss why IDEA is important, and explore what we can all do to enhance equity, inclusion, and accessibility when training or teaching others."
+-
+  title: "Core skills in bioinformatics"
+  themes: []
+  id: 2032
+  speakers: [253]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This presentation will cover core lessons I have learned through a PhD in bioinformatics. In particular, it will focus on the core skills and knowledge that can support success in a bioinformatics research project."
+-
+  title: "Creating scientific graphs with Python and AI"
+  themes: []
+  id: 2033
+  speakers: [253]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This workshop will cover how to use generative AI, such as CoPilot or ChatGPT, to generate and edit coding languages such as Python to generate publication-ready graphs and other outputs. It will cover essential topics such as how to use generative AI, core coding essentials for generating graphs, and common issues when using AI."
+-
+  title: "Introduction to Quantum Machine Learning"
+  themes: []
+  id: 2034
+  speakers: [254]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This workshop will include ~45 minutes of talk time, where I introduce types of machine learning and how to evaluate developed models. This will then go into a hands-on exercise in evaluating classical models developed using support vectors for classification problems. Attendees will be given data and code. They will use Google Colab to run the code. The workshop will then move into quantum machine learning. It will develop analogs between classical and quantum machine learning. The students won't be able to run the quantum algorithm, but I will demonstrate results."
+-
+  title: "Automating Research Data Workflows with Microsoft Forms and Power BI"
+  themes: []
+  id: 2035
+  speakers: [255,256]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>This practical workshop is designed for researchers seeking to automate and streamline the entire data lifecycle-from collection to visualisation-using Microsoft Forms and Power BI. </p>
+<p>Participants will learn how to:</p>
+<ul>
+<li>Design effective data collection instruments with Microsoft Forms for research surveys.</li>
+<li>Automate data transfer and storage by integrating Forms with Power BI, leveraging tools like Power Automate and SharePoint for seamless, real-time data flow.</li>
+<li>Clean and transform raw survey data for analysis using Power BI’s data transformation tools, ensuring data quality and usability for reporting.</li>
+<li>Set up scheduled or automated refreshes to keep reports up-to-date without manual intervention, supporting reproducible and scalable research workflows.</li>
+<li>Learn from real-world, anonymised case studies and lessons learned by the data team at Griffith University's Relational Insights Data Lab (RIDL), including common pitfalls, best practices, and tips for successful implementation.</li>
+</ul>
+<p>By the end of this session, attendees will be equipped to automate repetitive data tasks, reduce manual errors, and accelerate the journey from data collection to impactful research insights. No prior experience with Microsoft Forms or Power BI is required.</p>
+"
+-
+  title: "Introduction to data cleaning with OpenRefine"
+  themes: []
+  id: 2036
+  speakers: [201]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>Learn basic data cleaning techniques in this hands-on workshop, working with structured text data and using open source software OpenRefine.</p>
+
+<p>On completion of this workshop, participants should be able to:</p>
+<ul>
+<li>explore data through facets and filters</li>
+<li>implement 'tidy data' principles</li>
+<li>clean, organise, and prepare data for analysis</li>
+<li>use basic features of OpenRefine</li>
+<li>extract and reuse a reproducible script to repeat processing on similar data</li>
+</ul>
+"
+-
+  title: "Bridging Quantitative Data and Qualitative Insights: Spearman’s Rank Correlation in Mixed Methods Research"
+  themes: []
+  id: 2037
+  speakers: [257]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<ul>
+<li>Understand the difference between Spearman and Pearson correlations.</li>
+<li>Identify when to use Spearman correlation in mixed method research designs</li>
+<li>Conduct Spearman correlation analysis with Python</li>
+<li>Integrate qualitative and quantitative findings </li>
+<li>Interpret and report Spearman correlation results with both statistical meaning and contextual insight</li>
+</ul>
+"
+-
+  title: "Web Archives 101: Beyond Copy and Paste for Digital Research"
+  themes: []
+  id: 2038
+  speakers: [206]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This workshop covers the basics ("101") of web archiving as an alternative to simple copying and pasting from the internet. It positions web archiving as a more sophisticated approach to digital research, while maintaining an accessible, beginner-friendly tone that invites participation from those new to the concept."
+-

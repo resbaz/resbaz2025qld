@@ -61,13 +61,13 @@
   pronouns: She/Her
   company: Griffith University
   title: Research Library Specialist
-  bio: Sharron is a Research Library Specialist at Griffith Library providing training and advice to researchers on finding external data and primary sources for research and preparing data for analysis, visualisation and publishing. Sharron is a certified Data Carpentry instructor, a strong supporter of open research for societal benefit and is regularly involved in ResBaz as a trainer.
+  bio: Sharron is a Research Library Specialist at Griffith Library providing training and advice to researchers on finding external data and primary sources for research and preparing data for analysis, visualisation and publishing. Sharron is a certified Data Carpentry instructor, a strong supporter of open research for societal benefit and is regularly involved in ResBaz as a trainer and organiser.
   thumbnailUrl: SharronStapleton.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social: 
+  social: https://au.linkedin.com/in/sharronstapleton
 -
   id: 202
   name: Dr Sam
@@ -729,6 +729,94 @@ Prior to her transition into professional roles, she was a Postdoctoral Research
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://meirian.gitbook.io
+-
+  id: 252
+  name: Mark
+  surname: Crowe
+  pronouns: He/Him
+  company: Australian Genome Research Facility
+  title: 
+  bio: "<p>Mark Crowe is an accomplished Instructor, Trainer, and Director for The Carpentries, a global community dedicated to teaching foundational computational and data science skills. With a strong background in skills development, Mark has been instrumental in the growth of data science training offerings to Queensland researchers over the last several years.</p>
+  <p>In addition to his role at The Carpentries, Mark serves as the National Research Partnerships Manager at AGRF (Australian Genome Research Facility). Here, he facilitates innovative research collaborations, leveraging AGRF's state-of-the-art genomics platforms to support high-impact scientific research.
+</p><p>
+Mark's expertise and dedication to advancing research and education make him a highly respected figure in both the computational and genomics communities.</p>
+"
+  thumbnailUrl: mark_crowe.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/marklcrowe
+-
+  id: 253
+  name: Dr Lachlan
+  surname: McKinnie
+  pronouns: He/Him
+  company: UniSC
+  title: 
+  bio: "I am a recent PhD graduate in bioinformatics from the University of the Sunshine Coast. My research focused on investigating the molecular biosynthesis pathways of red algae, and utilised large-scale genomics analysis. I am a skilled data scientist and Python coder, which I use for data analytics, program automation, and web development."
+  thumbnailUrl: lachlan_mckinnie.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/lachlan-mckinnie-915a4a50
+-
+  id: 254
+  name: Dr Ashar
+  surname: Malik
+  pronouns: 
+  company: UQ
+  title: 
+  bio: "Ashar is a senior postdoctoral researcher in Professor David Ascher’s lab at the University of Queensland, where he builds computational models to tackle complex biological problems. His work spans protein structure modeling, molecular evolution, and deep learning, with a growing emphasis on quantum machine learning. Ashar focuses on hybrid quantum-classical approaches tailored for the NISQ era, aiming to expand the frontiers of structural biology and precision medicine."
+  thumbnailUrl: ashar_malik.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/ashar-malik
+-
+  id: 255
+  name: Nicholas
+  surname: Pittman
+  pronouns: He/Him
+  company: Relational Insights Data Lab, Griffith
+  title: Data Analyst
+  bio: "Nicholas Pittman is a Data Analyst at the Relational Insights Data Lab. In this role, he designs and implements complex solutions for clients with tricky problems and interesting datasets. Using a broad range of tools including R, Shiny, JavaScript, and PowerBI, Nicholas’ focus is not just on the how these models or data is important, but why."
+  thumbnailUrl: nicholas_pittman.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/nicholas-pittman
+-
+  id: 256
+  name: Jessica
+  surname: Chen
+  pronouns: She/Her
+  company: Relational Insights Data Lab, Griffith
+  title: Data Analyst
+  bio: "Jessica Chen is a Data Analyst at the Relational Insights Data Lab who combines a strong interest in data engineering with an exceptional ability to merge and link complex datasets. Skilled in a variety of tools including UiPath, Python, R, RShiny, PowerBI and even Adobe’s suite of tools for editing the Show Me the Data podcast, Jess is known for her willingness to learn and bring new ideas to the forefront."
+  thumbnailUrl: jessica_chen.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/jessicachen5
+-
+  id: 257
+  name: Dimanthinie
+  surname: De Silva
+  pronouns: 
+  company: QUT
+  title: 
+  bio: "An IT academic for the last 14 years in undergraduate education, now pursuing a PhD at Queensland University of Technology."
+  thumbnailUrl: dimanthinie_de_silva.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
 -
   id: 999
   name: Skeleton
