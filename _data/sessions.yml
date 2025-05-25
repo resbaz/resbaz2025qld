@@ -366,7 +366,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: "This workshop is designed for beginners taking their "first steps" with AI in data contexts and follows on from the first workshop in the series. It builds on the BYO data concept form the pervious workshop and moves from data ingress, cleaning and exploration to simple processing of data with AI as an aid."
+  description: "This workshop is designed for beginners taking their 'first steps' with AI in data contexts and follows on from the first workshop in the series. It builds on the BYO data concept form the pervious workshop and moves from data ingress, cleaning and exploration to simple processing of data with AI as an aid."
 -
   title: "Exploring texts using concordances"
   themes: []
