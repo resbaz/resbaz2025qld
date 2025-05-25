@@ -39,9 +39,18 @@
   hidden: true
   description: null
 -
-  title: Networking drinks
+  title: Researcher Speed-Dating
   themes: []
   id: 005
+  speakers:
+  subtype:
+  service:
+  hidden: true
+  description: 
+-
+  title: Networking drinks
+  themes: []
+  id: 006
   speakers:
   subtype:
   service:

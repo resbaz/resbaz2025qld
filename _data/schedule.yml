@@ -86,6 +86,11 @@
       endTime: "15:15",
       sessionIds: [000,2029,2015,2014,000,2030,000,2028]
     }
+    - {
+      startTime: "15:30",
+      endTime: "17:30",
+      sessionIds: [005]
+    }
 -
   date: "2025-07-03"
   dateReadable: "3rd of July 2025"
