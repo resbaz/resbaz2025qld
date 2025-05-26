@@ -13,7 +13,7 @@ future: true # Enable future posts (date > current date)
 # Site Settings
 title: "Research Bazaar Queensland"
 email: "mailto:resbaz@qcif.edu.au"
-description: "Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
+description: "Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where students and researchers come together to learn the latest in digital research tools and digital scholarship."
 baseurl: "/resbaz2025qld"
 url: "https://resbaz.github.io/resbaz2025qld/"
 permalink: "/blog/:title"
@@ -31,7 +31,7 @@ organizerLogo: "/img/seo/QCIF_Logo_web-copy.jpg"
 organizerLink: "https://www.qcif.edu.au/"
 
 # Head
-metaKeywords: "event, resbaz, research, bazaar, brisbane, meanjin, queensland, digital, skills, upskilling, hdr, ecr, eresearch, resbazqld, resbazbris"
+metaKeywords: "conference, event, resbaz, research, bazaar, brisbane, meanjin, queensland, digital, skills, upskilling, hdr, ecr, eresearch, resbazqld, resbazbris"
 twitterAccount: "@ResBazQld"
 instagramAccount: "@ResBazQld"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -71,14 +71,11 @@ eventDate: "1st-3rd Jul 2025 - UniSC Moreton Bay"
 # About Block
 aboutTitle: "About ResBaz Queensland"
 aboutSubtitle: "A festival of digital research"
-aboutText: "<p>ResBaz is more than a conference - it's a three-day festival of digital research training, where researchers from all disciplines come together to learn new skills in an interactive, collaborative and above all fun setting. Featuring workshops, talks, discussion sessions, networking and plenty of social activities, ResBazQld provides participatory training spanning nearly fifty different topics of cutting-edge digital research tools and techniques. </p>
+aboutText: "<p>ResBaz is more than a conference - it's a three-day festival of digital research training, where researchers from all disciplines come together to learn new skills in an interactive, collaborative and - above all - fun setting. Featuring workshops, talks, discussion sessions, networking and plenty of social activities, ResBazQld provides participatory training spanning nearly fifty different topics of cutting-edge digital research tools and techniques.</p>
 
-<p>In 2025, ResBazQld is now in its ninth year!
-In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
+<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
 
-<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>
-
-<p>UniSC, <a href='https://www.usc.edu.au/study/life-at-unisc/study-locations/unisc-moreton-bay/about-unisc-moreton-bay-campus'>Moreton Bay campus</a> is UniSC's newest campus and is just 25 km north of the city centre. There are various <a href='https://www.usc.edu.au/about/locations/transport-and-parking/public-transport#unisc-moreton-bay'>public transport opportunities</a>. <a href='https://www.usc.edu.au/about/locations/transport-and-parking/parking#unisc-moreton-bay'>On-campus parking</a> is only available for UniSC card holders.</p>"
+<p>In 2025, ResBazQLD turns 9, and UniSC is hosting for the first time. The <a href='https://www.usc.edu.au/study/life-at-unisc/study-locations/unisc-moreton-bay/about-unisc-moreton-bay-campus'>Moreton Bay campus</a> is UniSC's newest campus and is just 25 km north of the city centre. Find out <a href='https://www.usc.edu.au/about/locations/transport-and-parking/public-transport#unisc-moreton-bay'>how to get there</a>.</p>"
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
