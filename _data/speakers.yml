@@ -889,3 +889,17 @@ Mark's expertise and dedication to advancing research and education make him a h
     - {abbr: "", title: "", url: ""}
   social: https://www.library.qut.edu.au/about/contact/staff/c_rutter.jsp
 -
+  id: 263
+  name: Siobhann  
+  surname: McCafferty
+  pronouns: She/Her
+  company: ARDC
+  title: Project Manager
+  bio: "Siobhann McCafferty (She/her) is a Project Manager for the ARDC and professional PID Nerd. She is part of the National PID Team and also works on projects with the Humanities, Social Sciences and Indigenous Research Data Commons. While not at work she is mostly upside down and/or covered in cats."
+  thumbnailUrl: siobhann_mccafferty.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/siobhann-mccafferty-259b0a5a
+-
