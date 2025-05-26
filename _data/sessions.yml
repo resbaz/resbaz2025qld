@@ -97,7 +97,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: "This Workshop presents the Australian Persitent Identified ("PID") National Roadmap and discusses institutional implementations. We will present the roadmap, discuss the five priority PIDs and look particularly at the benefits of a coherent national capability for all of Australia. We will also present two use cases and open the floor to questions and discussion."
+  description: "This Workshop presents the Australian Persitent Identified ('PID') National Roadmap and discusses institutional implementations. We will present the roadmap, discuss the five priority PIDs and look particularly at the benefits of a coherent national capability for all of Australia. We will also present two use cases and open the floor to questions and discussion."
 -
   title: "AI Basis: Unsupervised and Supervised Machine Learning using R"
   themes: []
