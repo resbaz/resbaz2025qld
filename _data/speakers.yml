@@ -41,20 +41,6 @@
     - {abbr: "", title: "", url: ""}
   social: http://alisefox.com/
 -
-  id: 200
-  name: Skeleton
-  surname: 
-  pronouns: 
-  company: 
-  title: 
-  bio: 
-  thumbnailUrl: 
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: 
--
   id: 201
   name: Sharron
   surname: Stapleton
@@ -97,34 +83,6 @@
     - {abbr: "", title: "", url: ""}
   social: https://amandamiotto.github.io/
 -
-  id: 204
-  name: Dr Jenna
-  surname: Wraith
-  pronouns: She/Her
-  company: QCIF
-  title: Senior Data Scientist 
-  bio: Jenna is a Conservation Scientist with expertise in ecological modelling, species distribution, and biodiversity data analysis to support policy and conservation efforts. As the Senior Data Scientist at QCIF for EcoCommons, she oversees the development of the collaborative platform that enables researchers to build, share, and apply advanced ecological models.
-  thumbnailUrl: jenna_wraith.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social:
--
-  id: 205
-  name: Yolante
-  surname: Jones
-  pronouns: She/Her
-  company: ANU - Australia Data Archive
-  title: Senior Data Access Management Officer
-  bio: Yolante is the Senior Data Access Management Officer at the Australian Data Archive. She reviews applications for access to some Australia's most sensitive (& valuable) social science datasets. Before this role she was the Community Coordinator for the CADRE project and developed learning materials for the Five Safes conceptual framework. She is passionate about data management and ensuring best practices are upheld by all. 
-  thumbnailUrl: 
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social:
--
   id: 206
   name: Robert
   surname: Fleet
@@ -133,62 +91,6 @@
   title: Senior Data Scientist
   bio: "Robert Fleet is a Senior Data Scientist/Developer at Queensland University of Technology's Research Infrastructure, where he specialises in AI implementation for research and social network analysis. He is also an Affiliate of the QUT node of the ARC Centre of Excellence for Automated Decision Making and Society, and a certified Carpentries Instructor."
   thumbnailUrl: robert_fleet.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social:
--
-  id: 207
-  name: Addison
-  surname: Suhr
-  pronouns: She/Her
-  company: QUT Digital Observatory
-  title: Research Data Analyst
-  bio: Research Data Analyst for the Digital Observatory
-  thumbnailUrl: 
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://www.linkedin.com/in/addison-suhr
--
-  id: 208
-  name: Cameron
-  surname: West
-  pronouns: He/Him
-  company: UQ Library
-  title: Technology Trainer
-  bio: Cameron is a technology trainer at UQ Library. He helps run the Python User Group, enjoys assisting others with programming and is also studying his honours year. The technology training team also facilitate the R User Group (RUG), deliver hands-on programming and software training and offer one-on-one consultations.
-  thumbnailUrl: 
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social:
--
-  id: 209
-  name: Lucena
-  surname: Miranda
-  pronouns: 
-  company: Griffith University
-  title: 
-  bio: Lucena Miranda is a secondary school teacher from the Philippines who completed her master’s degree at the University of Queensland. She is now a post-confirmation PhD student at Griffith University, researching inclusion approaches to overcome multiple disadvantages in high school. As a non-native English speaker and a mother, her skills in using various technological tools and collaborating in diverse environments have enabled her to co-publish articles and manage book publication projects, at the early stage of her PhD journey, both inside and outside academia.
-  thumbnailUrl: lucena_miranda.png
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social:
--
-  id: 210
-  name: Udita
-  surname: Gupta
-  pronouns: She/Her
-  company: QUT
-  title: 
-  bio: Udita Gupta is a research student at the THRIVEIAQ program hosted at the Queensland University of Technology. Her research focuses on improving indoor air quality in highly occupied buildings. She is passionate about research methodologies, contributing to advance existing knowledge and learning about different research. 
-  thumbnailUrl: 
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
@@ -223,34 +125,6 @@
     - {abbr: "", title: "", url: ""}
   social: https://www.qcif.edu.au/qcif-people/joanna-salerno
 -
-  id: 213
-  name: Dr Awais Hameed
-  surname: Khan
-  pronouns: 
-  company: UQ
-  title: 
-  bio: I am a designer / technology researcher / illustrator / (reluctant) academic / (recovering) marketer — with over a decade of experience working across emerging technologies, telecommunications, consumer goods, and design consulting sectors. I am interested in the human and social aspects of designing technology, in collaboration with users. I enjoy working on human-computer interaction projects, developing participatory design tools and methods, design fictions, and using speculative approaches in my work.
-  thumbnailUrl: Awais_Hameed_Khan.jpeg
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://social-science.uq.edu.au/profile/7219/awais-hameed-khan
--
-  id: 215
-  name: William
-  surname: Pinzon Perez
-  pronouns: 
-  company: QCIF
-  title: 
-  bio: After working with QCIF as a casual biostatistics training instructor for three years, William joined QCIF full-time in late March 2022 as a Gold Coast-based Junior Statistician. As a fully certified The Carpentries instructor, William will continue to assist QCIF with its training program for researchers, including providing and developing training materials. He will also work across all of QCIF’s biostatistics clinics for its Members, and on any QCIF projects requiring his expertise.
-  thumbnailUrl: william_pinzon_perez.webp
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://www.qcif.edu.au/qcif-people/william-pinzon-perez
--
   id: 216
   name: Dr Ade
   surname: Adeyinka
@@ -264,48 +138,6 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.linkedin.com/in/adewuyi-ayodele-adeyinka-36112317
--
-  id: 217
-  name: Kaitlin
-  surname: Moat
-  pronouns: 
-  company: UQ
-  title: 
-  bio: 
-  thumbnailUrl: kaitlin_moat.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://www.linkedin.com/in/kaitlin-moat-a64338239
--
-  id: 218
-  name: Dr Tony
-  surname: Howes
-  pronouns: 
-  company: UQ
-  title: Honorary Associate Professor
-  bio: 
-  thumbnailUrl: tony_howes.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://chemeng.uq.edu.au/profile/2223/tony-howes
--
-  id: 220
-  name: Dr Martin
-  surname: Schweinberger
-  pronouns: 
-  company: UQ
-  title: Lecturer in Applied Linguistics
-  bio: Dr Martin Schweinberger is Lecturer in Applied Linguistics in the School of Language and Cultures at the University of Queensland (UQ). Martin has specialized in computational approaches to analysing language data with a focus on corpus linguistics and quantitative analyses. His research interests lie in language variation and change, language use and acquisition, and reproducibility in the language sciences. Martin is co-director of the Language Technology and Data Analysis Laboratory (LADAL), board member of the International Computer Archive of Modern and Medieval English (ICAME), Vice-President Profession of the International Society for the Linguistics of English (ISLE), as well as CI at the Language Data Commons of Australia (LDaCA) and the Australian Text Analytics Platform (ATAP).
-  thumbnailUrl: martin_schweinberger.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://languages-cultures.uq.edu.au/profile/4295/martin-schweinberger
 -
   id: 221
   name: Dr Sara
@@ -335,104 +167,6 @@
     - {abbr: "", title: "", url: ""}
   social: https://stragu.gitlab.io/
 -
-  id: 223
-  name: Justin
-  surname: Scott
-  pronouns: 
-  company: QCIF
-  title: Biostatistician
-  bio: 
-  thumbnailUrl: 
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: 
--
-  id: 224
-  name: Nicholas
-  surname: Maitigian
-  pronouns: 
-  company: QCIF
-  title: Biostatistician and Bioinformatician
-  bio: Nicholas (Nicko) is a data analyst (Biostatistician and Bioinformatician). He has 20 years’ experience in analysing high-throughput genomic data, including gene expression, methylation, metagenomics, high-throughput mass spectrometry protein profiling, next-generation sequencing data, single-cell and spatial transcriptomics.
-  thumbnailUrl: nicholas_maitigian.webp
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://www.qcif.edu.au/qcif-people/nicholas-matigian
--
-  id: 225
-  name: Rhetta
-  surname: Chappell
-  pronouns: 
-  company: RIDL/GDT (Griffith University)
-  title: Data Scientist & Partnerships Lead
-  bio: Rhetta Chappell is the Data Science and Partnerships Lead at Griffith University’s Relational Insights Data Lab (RIDL). In this role she leads a growing team of high-performing data analysts and provides strategic direction on complex, mission and data-driven projects for industry, government, and academic partners. Her role as a speaker at the Royal Statistical Society Conference in Scotland highlights her standing in the field. Rhetta’s work is not just about data analysis; it’s about creating sustainable, impactful solutions aligned with global initiatives like the UN’s Sustainable Development Goals.
-  thumbnailUrl: rhetta_chappell.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://www.linkedin.com/in/rhetta-chappell-473b2267/
--
-  id: 226
-  name: Heather
-  surname: Monro-Allison
-  pronouns: 
-  company: Griffith University
-  title: Librarian
-  bio: 
-  thumbnailUrl: 
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://www.linkedin.com/in/heather-monro-allison-b2949553
--
-  id: 227
-  name: Mark
-  surname: Hoffman
-  pronouns: 
-  company: QCIF
-  title: Senior Health Informatician
-  bio: "As a Senior Health Informatician at QCIF, I support researchers with sensitive data management and planning, as well as REDCap project design and deployment. I am also one of the Platform Managers for KeyPoint, QCIF’s purpose build Trusted Research Environment, which facilitates the secure sharing and analysis of sensitive data by Data Stewards to approved Researchers. Prior to joining QCIF I was a data manager at a non-profit health research organisation, working with analysist, managers and researchers to transform routinely collected health record data into positive research and public policy outcomes."
-  thumbnailUrl: mark_hoffman.webp
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://www.qcif.edu.au/qcif-people/mark-hoffmann
--
-  id: 228
-  name: Peter
-  surname: Marendy
-  pronouns: 
-  company: Queensland Cyber Infrastructure Foundation (QCIF), RSE-AUNZ
-  title: Head of Data Services
-  bio: "<p>Peter is currently employed as Head of Data and Software Solutions at the Queensland Cyber Infrastructure Foundation (QCIF), which provides eResearch infrastructure and services for Queensland research institutions and contributes to the National Research Infrastructure.</p><p>In this role, Peter is responsible for leading a team that delivers innovative, high quality, and time driven results for a wide variety of research programs from within universities, research institutes, and commercial companies. The team has expertise in workflows, specialised computing, data capture and management, and working with sensitive data.</p><p>Prior to his role with QCIF, Peter led the Microsystems research within CSIRO’s Cybernetics research Group. During his time at CSIRO, Peter also led projects such as Bees with Backpacks, Optimising Pollination, Smart Hives, Probing Biosystems – Implantables, Brain Implants, and Smart Helmets for optimising the timing of Cranioplasty.</p><p>Peter is also a member of the RSE-AUNZ steering committee which aims to build awareness of the diverse Research Software Engineer (RSE) roles, to connect volunteers in the RSE domain, and to help build practical solutions for the RSE Community.</p><p>Peter brings his experience in team/capability management, project management, and customer focused collaboration and relationships. A people focused leader with broad knowledge across multiple domains with a focus on cutting edge development and applications. An excellent technology communicator to the public, academia, government, grant bodies, and industrial stakeholders.</p><p>He also has more than 20 years of software engineering experience across multiple domains, including Digital Agriculture, Energy, Food and Nutritional Sciences, Health, Marine Sensing, Robotics, and Visual Analytics, in research and innovation environments.</p>"
-  thumbnailUrl: peter_marendy.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://www.linkedin.com/in/peter-marendy-64b4591/
--
-  id: 229
-  name: Abhimanyu (Raj)
-  surname: Singh
-  pronouns: 
-  company: QCIF
-  title: Data Ecologist
-  bio: 
-  thumbnailUrl: abhimanyu_raj_singh.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://www.qcif.edu.au/qcif-people/abhimanyu-(raj)-singh
--
   id: 230
   name: Xiang
   surname: Zhao
@@ -448,20 +182,6 @@ Zhao spent two years traveling across Australia as a backpacker. Prior to this, 
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.linkedin.com/in/xiang-zhao-4ba08113a
--
-  id: 231
-  name: Dr Andrew
-  surname: Jones
-  pronouns: 
-  company: QCIF
-  title: Senior Biostatistician
-  bio: 
-  thumbnailUrl: andrew_jones.webp
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://www.qcif.edu.au/qcif-people/dr-andrew-jones
 -
   id: 232
   name: Senn
