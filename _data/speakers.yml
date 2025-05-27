@@ -903,3 +903,17 @@ Mark's expertise and dedication to advancing research and education make him a h
     - {abbr: "", title: "", url: ""}
   social: https://au.linkedin.com/in/siobhann-mccafferty-259b0a5a
 -
+  id: 264
+  name: Adam   
+  surname: Serghini
+  pronouns: 
+  company: UQ
+  title: 
+  bio: "Adam Serghini is a PhD Student at the University of Queensland and specializes in computational biology with a focus on protein phosphorylation research. Throughout his doctoral studies, he has leveraged advanced machine learning techniques to tackle critical challenges in understanding physiological and pathological protein phosphorylation."
+  thumbnailUrl: adam_serghini.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/adam-serghini-8b83082b7
+-
