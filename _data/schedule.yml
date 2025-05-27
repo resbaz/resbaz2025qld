@@ -2,14 +2,14 @@
   date: "2025-07-01"
   dateReadable: "1st of July 2025"
   tracks: 
-    - {title: "MBA1 - G.23 Auditorium", color: "#2E8B57"}
-    - {title: "MBA1 - G.25 Auditorium", color: "#e91e63"}
-    - {title: "MBA1 - 2.05", color: "#FF8C00"}
-    - {title: "MBA1 - 2.19", color: "#48D1CC"}
-    - {title: "MBA1 - 2.21", color: "#FF00FF"}
-    - {title: "MBA1 - G.32", color: "#48D1CC"}
-    - {title: "MBA1 - G.33", color: "#2E8B57"}
-    - {title: "MBA1 - G.34", color: "#e91e63"}
+    - {title: "A1 - G.23 Auditorium", color: "#2E8B57"}
+    - {title: "A1 - G.25 Auditorium", color: "#e91e63"}
+    - {title: "A1 - 2.05", color: "#FF8C00"}
+    - {title: "A1 - 2.19", color: "#48D1CC"}
+    - {title: "A1 - 2.21", color: "#FF00FF"}
+    - {title: "A1 - G.32", color: "#48D1CC"}
+    - {title: "A1 - G.33", color: "#2E8B57"}
+    - {title: "A1 - G.34", color: "#e91e63"}
   timeslots:
     - {startTime: "08:45", endTime: "09:15", sessionIds: [001]}
     - {
@@ -46,14 +46,14 @@
   date: "2025-07-02"
   dateReadable: "2nd of July 2025"
   tracks: 
-    - {title: "MBA1 - G.23 Auditorium", color: "#2E8B57"}
-    - {title: "MBA1 - G.25 Auditorium", color: "#e91e63"}
-    - {title: "MBA1 - 2.05", color: "#FF8C00"}
-    - {title: "MBA1 - 2.19", color: "#48D1CC"}
-    - {title: "MBA1 - 2.21", color: "#FF00FF"}
-    - {title: "MBA1 - G.32", color: "#48D1CC"}
-    - {title: "MBA1 - G.33", color: "#2E8B57"}
-    - {title: "MBA1 - G.34", color: "#e91e63"}
+    - {title: "A1 - G.23 Auditorium", color: "#2E8B57"}
+    - {title: "A1 - G.25 Auditorium", color: "#e91e63"}
+    - {title: "A1 - 2.05", color: "#FF8C00"}
+    - {title: "A1 - 2.19", color: "#48D1CC"}
+    - {title: "A1 - 2.21", color: "#FF00FF"}
+    - {title: "A1 - G.32", color: "#48D1CC"}
+    - {title: "A1 - G.33", color: "#2E8B57"}
+    - {title: "A1 - G.34", color: "#e91e63"}
   timeslots:
     - {startTime: "08:45", endTime: "09:15", sessionIds: [001]}
     - {
@@ -95,14 +95,14 @@
   date: "2025-07-03"
   dateReadable: "3rd of July 2025"
   tracks: 
-    - {title: "MBA1 - G.23 Auditorium", color: "#2E8B57"}
-    - {title: "MBA1 - G.25 Auditorium", color: "#e91e63"}
-    - {title: "MBA1 - 2.05", color: "#FF8C00"}
-    - {title: "MBA1 - 2.19", color: "#48D1CC"}
-    - {title: "MBA1 - 2.21", color: "#FF00FF"}
-    - {title: "MBA1 - G.32", color: "#48D1CC"}
-    - {title: "MBA1 - G.33", color: "#2E8B57"}
-    - {title: "MBA1 - G.34", color: "#e91e63"}
+    - {title: "A1 - G.23 Auditorium", color: "#2E8B57"}
+    - {title: "A1 - G.25 Auditorium", color: "#e91e63"}
+    - {title: "A1 - 2.05", color: "#FF8C00"}
+    - {title: "A1 - 2.19", color: "#48D1CC"}
+    - {title: "A1 - 2.21", color: "#FF00FF"}
+    - {title: "A1 - G.32", color: "#48D1CC"}
+    - {title: "A1 - G.33", color: "#2E8B57"}
+    - {title: "A1 - G.34", color: "#e91e63"}
   timeslots:
     - {startTime: "08:45", endTime: "09:15", sessionIds: [001]}
     - {

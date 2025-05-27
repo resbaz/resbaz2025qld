@@ -6,14 +6,14 @@
   hidden: true
   description: null  
 -
-  title: Registration
+  title: Registration (A1 - G.47/48)
   themes: []
   id: 001
   speakers: 
   hidden: true
   description:   
 -
-  title: Morning tea (MBA1 - G.47/48)
+  title: Morning tea (A1 - G.47/48)
   themes: []
   id: 002 
   speakers: 
@@ -21,7 +21,7 @@
   hidden: true
   description: null
 -
-  title: Afternoon tea (MBA1 - G.47/48)
+  title: Afternoon tea (A1 - G.47/48)
   themes: []
   id: 003
   speakers:
@@ -30,7 +30,7 @@
   hidden: true
   description: null
 -
-  title: Lunch and Stalls (MBA1 - G.47/48)
+  title: Lunch and Stalls (A1 - G.47/48)
   themes: []
   id: 004
   speakers:
