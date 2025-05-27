@@ -88,7 +88,13 @@
   subtype: Workshop
   service:
   hidden: false
-  description: 
+  description: "<p>Do you feel like everyone around you is smarter than you, and you are worried that they may discover you don't belong here? Or that you are faking it? Does it feel like you have gotten to your position due to a lucky break and not skill?</p>
+
+<p>Welcome to the Impostor Syndrome. This is a strange psychological phenomenon that makes ordinary people – even brilliant ones – feel like they're frauds, fakes, inadequate, and undeserving. Even incredibly successful people like Neil Armstrong and Emma Watson feel like this sometimes.</p>
+
+<p>Anyone can feel like this, especially if you are in a career in tech or research. Its particularly prevalent if you are from a diverse background (Women in STEM, international, etc). It can affect you at any stage of your career.</p>
+
+<p>Come learn more about it from a fellow Impostor and hear about coping mechanisms to help you sidestep this feeling!</p>"
 -
   title: "The Australian PID National Roadmap: strategy and implementation"
   themes: []

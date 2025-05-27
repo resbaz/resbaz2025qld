@@ -86,10 +86,10 @@
   id: 203
   name: Amanda
   surname: Miotto
-  pronouns: 
-  company: 
-  title: 
-  bio: 
+  pronouns: She/Her
+  company: Griffith
+  title: eResearch Analyst
+  bio: "Amanda Miotto is an eResearch Analyst for Griffith University, with 15 years of experience in the industry. She started off in the field of Bioinformatics and learnt to appreciate the beauty of science before discovering the joys of coding. She aims to bring innovations and resources to researchers to help accelerate their research projects."
   thumbnailUrl: amanda_miotto.png
   rockstar: false
   ribbon:
