@@ -48,9 +48,9 @@ navigationLinks:
  #- {permalink: "/news/", text: "News"}
  #- {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
  #- {link: "https://forms.gle/MQAHpunT1aCn7ueRA", text: "Keep me informed"}
- # - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
- #- {permalink: "/sessions/", text: "Sessions"}
+ - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Getting here"}
  # - {permalink: "/dietaries/", text: "Facilities"}
  - {permalink: "/partners/", text: "Sponsors"}

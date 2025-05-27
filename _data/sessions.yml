@@ -45,7 +45,7 @@
   speakers:
   subtype:
   service:
-  hidden: true
+  hidden: false
   description: "This activity will hone your ability to explain your research to someone outside of your field or a layperson. Meet fellow researchers and experience describing your research to others. Find commonalities with other's projects and interests. Interact with your peers and foster a sense of community, whilst developing your communication skills."
 -
   title: Networking drinks
@@ -61,7 +61,7 @@
   themes: []
   id: 101
   speakers: [101]
-  subtype: talk
+  subtype: Talk
   hidden: false
   description: null
 -
@@ -69,7 +69,7 @@
   themes: []
   id: 102
   speakers: [102]
-  subtype: talk
+  subtype: Talk
   hidden: false
   description: "As artificial intelligence (AI) becomes more advanced and ubiquitous across society, concerns are increasing around the risks associated with different AI technologies. In this presentation I argue that stakeholders are failing to ensure the design of safe, ethical, and beneficial technologies and that we are rapidly moving toward a point of no return. An overview of current and future AI risks is presented, following which the critical role of Human Factors (HF) in the design of safe, ethical, and beneficial AI is articulated. Case studies are used to demonstrate these arguments, showing where risks emerge and where HF input is required. To close, the SECURE (Safe, Ethical, Controllable, Usable, Responsible, and Effective) AI Human Factors Integration lifecycle is presented to demonstrate what Human Factors input is required at different lifecycle stages, and what controls are needed to manage AI safety risks."
 -
@@ -77,7 +77,7 @@
   themes: []
   id: 103
   speakers: [103]
-  subtype: talk
+  subtype: Talk
   hidden: false
   description: 
 -
@@ -555,7 +555,7 @@
   themes: []
   id: 2039
   speakers: [258]
-  subtype: Workshop
+  subtype: Talk
   service:
   hidden: false
   description: "<p>This presentation is designed for researchers, postgrads, and academics who manage their own code but may not have a background in system administration. Participants will learn how to use Git, Ansible, and Docker — three powerful tools that can transform the way they manage, automate, and share their research code.  </p>
