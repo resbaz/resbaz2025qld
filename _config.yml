@@ -202,8 +202,9 @@ footerBlocks:
 #   - {link: "https://taylorandfrancis.com/", text: "Taylor & Francis", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
  -    
   title: "Silver Sponsor"
-#  links:
-#   - {link: "https://www.springernature.com/gp", text: "Springer Nature", imageUrl: "../img/organizers/logo-springernature.svgf"}
+  links:
+    - {link: "https://aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
+    - {link: "https://www.springernature.com/gp", text: "Springer Nature", imageUrl: "../img/organizers/logo-springernature.svg"}
  -  
   title: "Collaborating Institutes"
   links:

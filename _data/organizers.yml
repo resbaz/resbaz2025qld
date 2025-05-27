@@ -6,6 +6,7 @@
 -
   group: "Silver Sponsors"
   elements: 
+    - {description: "AARNet", link: "https://aarnet.edu.au/", imageUrl: "../img/organizers/aarnet.png"}
     - {description: "Springer Nature", link: "https://www.springernature.com/gp", imageUrl: "../img/organizers/logo-springernature.svg"}
 -
   group: "Main organisers"
