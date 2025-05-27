@@ -1,12 +1,15 @@
-<!-- Begin Schedule Section -->
+<!-- Begin Session Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
-            Filter sessions by topic: <select id="themes">
+        <!-- Hide session filter 
+        Filter sessions by topic:
+        <select id="themes">
             <option value="">Show all</option>
             {% for theme in site.data.themes %}
                 <option value="theme_{{ theme.id }}">{{ theme.name }}</option>
             {% endfor %}
         </select>
+        -->
         <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 10 }'>
             {% for session in site.data.sessions %}
                 {% if session.id != 301 and session.id != 503 and session.id != 000 and session.hidden != true %} 
