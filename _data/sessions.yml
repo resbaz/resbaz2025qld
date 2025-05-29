@@ -429,14 +429,14 @@
   hidden: false
   description: This practical workshop will help participants to choose and use the appropriate standard statistical test for their data by introducing key concepts of inferential statistics in R. Participants will learn how to compute and interpret hypothesis tests for popular statistical models such as correlation, contingency tables, chi-square test, t-test and ANOVA.
 -
-  title: Careers Panel
+  title: "Data-Oriented Career Pathways - How did I get here, and how can you? - Panel discussion"
   themes: []
   id: 2029
   speakers: [234,250]
-  subtype: Workshop
+  subtype: Panel discussion
   service:
   hidden: false
-  description: 
+  description: "Come hear from a panel of data-focused professionals, how they came to be in their careers and what career pathways are available in their spaces."
 -
   title: "Accelerate Your Research with Cloud Computing on the ARDC Nectar Research Cloud"
   themes: []
