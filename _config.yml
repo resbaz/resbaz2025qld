@@ -184,6 +184,7 @@ socialLinks:
  - {link: "https://instagram.com/ResBazQld", icon: "instagram"}
  - {link: "https://www.linkedin.com/showcase/resbaz-qld", icon: "linkedin"}
  - {link: "https://www.qcif.edu.au/", icon: "site"}
+ - {link: "https://github.com/resbaz/resbaz2025qld", icon: "github"}
  - {link: "https://forms.gle/5Kc4QUkhibvuopA48", icon: "mail"}
 footerBlocks:
  -
