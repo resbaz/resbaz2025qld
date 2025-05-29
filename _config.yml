@@ -180,7 +180,7 @@ twitterFeed: "https://twitter.com/ResBazQld"
 
 # Footer
 socialLinks:
-# - {link: "https://twitter.com/ResBazQld", icon: "twitter"}
+ - {link: "https://bne.social/@resbazqld", icon: "mastodon"}
  - {link: "https://instagram.com/ResBazQld", icon: "instagram"}
  - {link: "https://www.linkedin.com/showcase/resbaz-qld", icon: "linkedin"}
  - {link: "https://www.qcif.edu.au/", icon: "site"}
