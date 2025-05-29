@@ -73,13 +73,13 @@
   hidden: false
   description: "As artificial intelligence (AI) becomes more advanced and ubiquitous across society, concerns are increasing around the risks associated with different AI technologies. In this presentation I argue that stakeholders are failing to ensure the design of safe, ethical, and beneficial technologies and that we are rapidly moving toward a point of no return. An overview of current and future AI risks is presented, following which the critical role of Human Factors (HF) in the design of safe, ethical, and beneficial AI is articulated. Case studies are used to demonstrate these arguments, showing where risks emerge and where HF input is required. To close, the SECURE (Safe, Ethical, Controllable, Usable, Responsible, and Effective) AI Human Factors Integration lifecycle is presented to demonstrate what Human Factors input is required at different lifecycle stages, and what controls are needed to manage AI safety risks."
 -
-  title: "Key Story - Alise Fox"
+  title: "Key Story - Not Knowing Is a Feature, Not a Bug"
   themes: []
   id: 103
   speakers: [103]
   subtype: Talk
   hidden: false
-  description: 
+  description: "This is the talk I wish someone had given me—and also the one I still need to hear myself. Join me for an honest, and occasionally chaotic look at the lessons I’ve learned (and often ignored) on the way to building a career in digital science. From imposter syndrome and perfectionism to career plot twists and awkward small talk, this presentation isn’t about having it all figured out — it’s about figuring it out as you go. Expect practical advice, hard-won insights, and reassurance that even the people who look confident on the outside are probably just winging it too."
 -
   title: Impostor Syndrome
   themes: []
