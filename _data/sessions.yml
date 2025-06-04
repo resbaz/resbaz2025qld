@@ -165,7 +165,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: "Think of your ORCID iD as your academic foot print.  Your unique 16 digit identifier that keeps all your research neatly connected in one place. It’s more than just a profile,  because it connects and consolidates all your research outputs and activities.  By allowing trusted organisations like ARC, NHMRC, your university, or publishers to update your ORCID record automatically, you can skip the tedious admin work and dive deeper into what really matter, your research! Keep your academic identity strong and stress free with ORCID"
+  description: "Think of your ORCID iD as your academic footprint. Your unique 16-digit identifier that keeps all your research neatly connected in one place. It’s more than just a profile, because it connects and consolidates all your research outputs and activities. By allowing trusted organisations like ARC, NHMRC, your university, or publishers to update your ORCID record automatically, you can skip the tedious admin work and dive deeper into what really matters, your research! Keep your academic identity strong and stress free with ORCID"
 -
   title: "Crafting Your Research Profile"
   themes: []
