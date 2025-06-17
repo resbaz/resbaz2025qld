@@ -1,11 +1,15 @@
 -
   id: 101
-  name: Ross
+  name: Prof. Ross
   surname: Young
   pronouns:
   company: UniSC
-  title: 
-  bio: 
+  title: Deputy Vice-Chancellor (Research and Innovation)
+  bio: "<p>Professor Ross Young is Deputy Vice-Chancellor (Research and Innovation) at the University of the Sunshine Coast. Prior to joining UniSC, Ross had extensive experience in clinical and academic health and in medical research. This included as Chair of Trauma Rehabilitation at the Jamieson Trauma Institute, Metro North Health; Executive Dean, Faculty of Health and Executive Director of the Institute of Health and Biomedical Innovation at Queensland University of Technology (QUT); and Director of the Behaviour Research and Therapy Centre (Psychiatry) at the University of Queensland.
+</p><p>
+A clinical psychologist by background, Ross’s research interests are in the integration of psychological and biological risk factors in mental illness, often linking whole genome and -omics data with clinical data. He is committed to social justice and maximising health outcomes for all people, particularly the most vulnerable in our communities. Ross supports the use of novel digital and technological solutions to address important health and societal challenges, and his commercial collaboration and patent activity has included licensing gene chip technology.
+</p><p>
+At RezBaz Ross has been asked to reflect on the importance of research partnerships, embracing an entrepreneurial mindset and some of the lessons learnt in his career that he would have taught his “younger self”.</p>"
   thumbnailUrl: ross_young.jpg
   rockstar: true
   ribbon:
