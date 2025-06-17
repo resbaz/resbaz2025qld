@@ -39,10 +39,10 @@
   hidden: true
   description: null
 -
-  title: Researcher Speed-Dating
+  title: Researcher Speed-Networking
   themes: []
   id: 005
-  speakers:
+  speakers: 265
   subtype:
   service:
   hidden: false

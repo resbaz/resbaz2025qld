@@ -641,3 +641,17 @@ Mark's expertise and dedication to advancing research and education make him a h
     - {abbr: "", title: "", url: ""}
   social: https://au.linkedin.com/in/adam-serghini-8b83082b7
 -
+  id: 265
+  name: Jo
+  surname: Savill
+  pronouns: 
+  company: ARDC
+  title: Senior Science Communicator
+  bio: "With 20 years’ experience as a science communicator in Australia, Israel and the UK, Jo creates and executes strategic communication strategies and shares ARDC stories on our website, newsletter, social media, our partners, and to everyone she meets."
+  thumbnailUrl: jo_savill.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://orcid.org/0000-0001-6933-1025
+-

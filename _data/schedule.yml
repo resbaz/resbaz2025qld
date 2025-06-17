@@ -89,7 +89,7 @@
     - {
       startTime: "15:30",
       endTime: "17:30",
-      sessionIds: [005]
+      sessionIds: [000,000,000,005,000,000,000,000]
     }
 -
   date: "2025-07-03"
