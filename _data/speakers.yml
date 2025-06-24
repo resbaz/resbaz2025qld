@@ -659,3 +659,45 @@ Mark's expertise and dedication to advancing research and education make him a h
     - {abbr: "", title: "", url: ""}
   social: https://orcid.org/0000-0001-6933-1025
 -
+  id: 266
+  name: Dr Moji
+  surname: Ghadimi
+  pronouns: 
+  company: QCIF
+  title: Head of Applied AI and Quantum Algorithms
+  bio:
+  thumbnailUrl: moji_ghadimi.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://au.linkedin.com/in/moji-ghadimi
+-
+  id: 267
+  name: Dr Abigail
+  surname: Koay
+  pronouns: 
+  company: UniSC
+  title: Lecturer in Computer Science 
+  bio:
+  thumbnailUrl: abigail_koay.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.usc.edu.au/staff/dr-abigail-koay
+-
+  id: 268
+  name: Dr Steven
+  surname: James
+  pronouns: 
+  company: UniSC
+  title: Senior Lecturer in Nursing
+  bio:
+  thumbnailUrl: steven_james.png
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.usc.edu.au/staff/dr-steven-james
+-
