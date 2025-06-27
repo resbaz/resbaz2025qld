@@ -313,7 +313,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: "A bioinformatics/molecular led talk, covering the use of computational analysis in research."
+  description: "What do we do when we want to analyse genes, mRNAs or proteins from organisms that are hard to work with? For some target species, tissues may not be available - either due to ethical concerns or the protected/endangered nature. For good reasons, other organisms are subject to biosecurity restrictions (e.g., Varroa mites and Red Imported Fire Ants). In this workshop, I will demonstrate ways we can use bioinformatic and gene synthesis approaches to overcome these limitations, which is compatible with the 3Rs - Replacement, Reduction, and Refinement in the context of animal research. I will give an introduction to key genomic databases - including the UCSC Genome Browser and Ensembl, and show how data mining and Bioinformatic tools (SignalP, Philius, Snapgene) can be used to build accurate gene models and improve annotations for membrane proteins. I will demonstrate how we are applying these approaches to characterise neurotransmitter receptors in Red Imported Fire Ants - a major environmental pest in Queensland - with the aim of designing eco-friendly insecticides that do not harm other beneficial insects."
 -
   title: "Introductory Data Cleaning/Exploration with Python/Pandas"
   themes: []
