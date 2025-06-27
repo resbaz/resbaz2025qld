@@ -39,14 +39,15 @@
   hidden: true
   description: null
 -
-  title: Researcher Speed-Networking
+  title: Researcher Speed-Networking and Drinks
   themes: []
   id: 005
   speakers: [265]
   subtype:
   service:
   hidden: false
-  description: "This activity will hone your ability to explain your research to someone outside of your field or a layperson. Meet fellow researchers and experience describing your research to others. Find commonalities with other's projects and interests. Interact with your peers and foster a sense of community, whilst developing your communication skills - and sharing some afternoon tea."
+  description: "<p>Join this interactive session to sharpen your skills in networking with researchers and those outside your field. You'll learn how to craft a great pitch to introduce yourself and explain your research in an engaging way. Meet fellow researchers, make new connections, and find commonalities with others. Also enjoy drinks and nibbles!</p>
+  <p>This session is facilitated by the Australian Research Data Commons, which runs Research Link Australia - a gateway for Australian R&D information. It’s ideal for finding partners in research and industry.</p>"
 -
   title: Networking drinks
   themes: []
