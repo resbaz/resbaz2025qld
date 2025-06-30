@@ -219,8 +219,8 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:resbaz@qcif.edu.au", text: "resbaz@qcif.edu.au"}
-   - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Volunteer as a helper for ResBaz"}
-  #  - {link: "https://forms.gle/xxukxNN5FNFMEoZV9", text: "Submit a workshop for ResBaz"}
+  # - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Volunteer as a helper for ResBaz"}
+  # - {link: "https://forms.gle/xxukxNN5FNFMEoZV9", text: "Submit a workshop for ResBaz"}
  -
   title: "FAQ"
   links:
