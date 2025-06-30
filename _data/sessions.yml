@@ -242,7 +242,7 @@
   title: "Introduction to programming: Plotting and Programming with Python"
   themes: []
   id: 2015
-  speakers: [212,232]
+  speakers: [212,232,269]
   subtype: Workshop
   service:
   hidden: false
