@@ -707,8 +707,8 @@ Mark's expertise and dedication to advancing research and education make him a h
   pronouns: 
   company: QUT
   title: 
-  bio:
-  thumbnailUrl: 
+  bio: "Michal is a Bioinformatician at QUT with a background in computational biology, data science, and open-source technologies. He has experience applying Python, R, and Docker in research workflows and enjoys helping researchers develop reproducible and efficient analyses. Michal is passionate about making programming approachable for everyone, and loves sharing practical skills that empower people to solve real-world problems."
+  thumbnailUrl: michal_lorenc.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
